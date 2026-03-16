@@ -1,0 +1,3086 @@
+WARD,LICENSE DESCRIPTION,count
+1.0,Animal Care Facility,2
+1.0,Animal Care License,1
+1.0,Auctioneer,2
+1.0,Bed-And-Breakfast Establishment,5
+1.0,Bicycle Messenger Service,1
+1.0,Body Piercing,7
+1.0,Broker,8
+1.0,Caterer's Liquor License,3
+1.0,Children's Activities Facilities,5
+1.0,Children's Services Facility License,4
+1.0,Commercial Garage,1
+1.0,Consumption on Premises - Incidental Activity,136
+1.0,Day Care Center 2 - 6 Years,8
+1.0,Day Care Center Under 2 and 2 - 6 Years,1
+1.0,Day Labor Agency,2
+1.0,Electronic Equipment Repair,11
+1.0,Expediter - Class A,4
+1.0,Expediter - Class B,1
+1.0,Expediter - Class B Employee,1
+1.0,Filling Station,4
+1.0,Food - Shared Kitchen,1
+1.0,Food - Shared Kitchen - Supplemental,1
+1.0,Grooming Facility,7
+1.0,Hazardous Materials,13
+1.0,Home Occupation,147
+1.0,Home Repair,40
+1.0,Hospital,2
+1.0,Hotel,1
+1.0,Junk Peddler,2
+1.0,Kennels and Catteries,8
+1.0,Laboratories,1
+1.0,Late Hour,7
+1.0,"Laundry, Late Hour",5
+1.0,Limited Business License,673
+1.0,Long-Term Care Facility,2
+1.0,Manufacturing Establishments,3
+1.0,Massage Establishment,35
+1.0,Massage Therapist,24
+1.0,Mobile Food Dispenser,6
+1.0,Mobile Food License,1
+1.0,Motor Vehicle Repair : Engine Only (Class II),28
+1.0,Motor Vehicle Repair: Engine/Body(Class III),7
+1.0,Motor Vehicle Repair; Specialty(Class I),8
+1.0,Motor Vehicle Services License,7
+1.0,Music and Dance,4
+1.0,Night Care Privilege,1
+1.0,Outdoor Patio,30
+1.0,Package Goods,30
+1.0,Pawnbroker,2
+1.0,Peddler License,2
+1.0,"Peddler, food (fruits and vegtables only)",6
+1.0,"Peddler, non-food",5
+1.0,"Peddler, non-food, special",1
+1.0,"Peddler,food - (fruits and vegetables only) - special",3
+1.0,Pet Shop,4
+1.0,Pop-Up Retail User,1
+1.0,Private Booting Registration,10
+1.0,Produce Merchant,2
+1.0,Public Place of Amusement,37
+1.0,Public Place of Amusement (PAV),4
+1.0,Regulated Business License,59
+1.0,Residential Real Estate Developer,15
+1.0,Retail Computing Center,3
+1.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,3
+1.0,Retail Food Establishment,327
+1.0,Secondhand Dealer,5
+1.0,Secondhand Dealer (No Valuable Objects),6
+1.0,Shared Housing Unit Operator,1
+1.0,Shared Kitchen User (Long Term),7
+1.0,Single Room Occupancy Class I,3
+1.0,Special Event Food,1
+1.0,Street Performer,18
+1.0,Tavern,26
+1.0,"Tire Facilty Class I (100 - 1,000 Tires)",9
+1.0,Tobacco,79
+1.0,Tobacco Dealer Wholesale,2
+1.0,Tobacco Sampler,1
+1.0,"Tobacco Vending, Individual",2
+1.0,Valet Parking Operator,15
+1.0,Veterinary Hospital,4
+1.0,Weapons Dealer,1
+1.0,Wholesale Food Establishment,8
+2.0,Accessory Garage,43
+2.0,Animal Care Facility,5
+2.0,Animal Care License,3
+2.0,Auctioneer,1
+2.0,Bed-And-Breakfast Establishment,3
+2.0,Body Piercing,2
+2.0,Broker,16
+2.0,Caterer's Liquor License,13
+2.0,Children's Activities Facilities,7
+2.0,Children's Services Facility License,2
+2.0,Commercial Garage,41
+2.0,Consumption on Premises - Incidental Activity,232
+2.0,Day Care Center 2 - 6 Years,8
+2.0,Day Care Center Under 2 Years,3
+2.0,Day Care Center Under 2 and 2 - 6 Years,3
+2.0,Electronic Equipment Repair,12
+2.0,Expediter - Class A,3
+2.0,Expediter - Class B Employee,1
+2.0,Grooming Facility,7
+2.0,Hazardous Materials,18
+2.0,Home Occupation,144
+2.0,Home Repair,13
+2.0,Hospital,3
+2.0,Hotel,37
+2.0,Kennels and Catteries,8
+2.0,Laboratories,4
+2.0,Late Hour,13
+2.0,Limited Business License,733
+2.0,Long-Term Care Facility,2
+2.0,Manufacturing Establishments,1
+2.0,Massage Establishment,33
+2.0,Massage Therapist,29
+2.0,Motor Vehicle Repair : Engine Only (Class II),11
+2.0,Motor Vehicle Repair; Specialty(Class I),1
+2.0,Music and Dance,3
+2.0,Outdoor Patio,57
+2.0,Package Goods,39
+2.0,Peddler License,2
+2.0,"Peddler, non-food",17
+2.0,"Peddler,food - (fruits and vegetables only) - special",1
+2.0,Pet Shop,3
+2.0,Pharmaceutical Representative,1
+2.0,Pop-Up Establishment Host - Tier III,1
+2.0,Public Place of Amusement,41
+2.0,Public Place of Amusement (PAV),4
+2.0,Public Place of Amusement-TCC,1
+2.0,Raffles,6
+2.0,Regulated Business License,83
+2.0,Residential Real Estate Developer,40
+2.0,Retail Computing Center,2
+2.0,Retail Food Establishment,329
+2.0,Secondhand Dealer,2
+2.0,Secondhand Dealer (No Valuable Objects),2
+2.0,Shared Housing Unit Operator,1
+2.0,Shared Kitchen User (Long Term),7
+2.0,Single Room Occupancy Class I,1
+2.0,Single Room Occupancy Class II,1
+2.0,Street Performer,18
+2.0,Tavern,17
+2.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+2.0,Tobacco,38
+2.0,Towing - Tow Truck,1
+2.0,Vacation Rental,7
+2.0,Valet Parking Operator,44
+2.0,Veterinary Hospital,3
+3.0,Accessory Garage,2
+3.0,Animal Care Facility,1
+3.0,Automatic Amusement Device Operator,1
+3.0,Bed-And-Breakfast Establishment,2
+3.0,Bicycle Messenger Service,1
+3.0,Broker,3
+3.0,Caterer's Liquor License,5
+3.0,Children's Activities Facilities,1
+3.0,Children's Services Facility License,11
+3.0,Commercial Garage,9
+3.0,Consumption on Premises - Incidental Activity,43
+3.0,Day Care Center 2 - 6 Years,19
+3.0,Day Care Center Under 2 Years,7
+3.0,Day Care Center Under 2 and 2 - 6 Years,6
+3.0,Electronic Equipment Repair,1
+3.0,Filling Station,7
+3.0,Food - Shared Kitchen - Supplemental,1
+3.0,Grooming Facility,2
+3.0,Hazardous Materials,22
+3.0,Home Occupation,128
+3.0,Home Repair,18
+3.0,Hotel,4
+3.0,Kennels and Catteries,3
+3.0,Laboratories,1
+3.0,Late Hour,1
+3.0,Limited Business License,360
+3.0,Long-Term Care Facility,10
+3.0,Manufacturing Establishments,2
+3.0,Massage Establishment,6
+3.0,Massage Therapist,4
+3.0,Mobile Food Dispenser,6
+3.0,Mobile Food License,1
+3.0,Motor Vehicle Repair : Engine Only (Class II),10
+3.0,Motor Vehicle Repair: Engine/Body(Class III),7
+3.0,Motor Vehicle Services License,2
+3.0,Outdoor Patio,17
+3.0,Package Goods,8
+3.0,Pawnbroker,1
+3.0,Peddler License,2
+3.0,"Peddler, food (fruits and vegtables only)",2
+3.0,"Peddler, non-food",17
+3.0,"Peddler, non-food, special",10
+3.0,"Peddler,food - (fruits and vegetables only) - special",3
+3.0,Pop-Up Retail User,1
+3.0,Produce Merchant,1
+3.0,Public Place of Amusement,10
+3.0,Public Place of Amusement (PAV),2
+3.0,Raffles,2
+3.0,Regulated Business License,66
+3.0,Residential Real Estate Developer,14
+3.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,1
+3.0,Retail Food Establishment,145
+3.0,Secondhand Dealer,1
+3.0,Secondhand Dealer (No Valuable Objects),1
+3.0,Shared Housing Unit Operator,2
+3.0,Shared Kitchen User (Long Term),1
+3.0,Single Room Occupancy Class I,3
+3.0,Single Room Occupancy Class II,6
+3.0,Street Performer,13
+3.0,Tavern,6
+3.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+3.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+3.0,Tobacco,38
+3.0,Valet Parking Operator,4
+3.0,Veterinary Hospital,3
+3.0,Wholesale Food Establishment,2
+4.0,Accessory Garage,10
+4.0,Animal Care Facility,1
+4.0,Auctioneer,1
+4.0,Bed-And-Breakfast Establishment,1
+4.0,Broker,6
+4.0,Caterer's Liquor License,4
+4.0,Children's Activities Facilities,3
+4.0,Children's Services Facility License,6
+4.0,Commercial Garage,16
+4.0,Consumption on Premises - Incidental Activity,75
+4.0,Day Care Center 2 - 6 Years,11
+4.0,Day Care Center Under 2 Years,3
+4.0,Day Care Center Under 2 and 2 - 6 Years,3
+4.0,Electronic Equipment Repair,8
+4.0,Expediter - Class A,1
+4.0,Grooming Facility,1
+4.0,Hazardous Materials,11
+4.0,Home Occupation,155
+4.0,Home Repair,16
+4.0,Hospital,1
+4.0,Hotel,13
+4.0,Indoor Special Event,1
+4.0,Kennels and Catteries,2
+4.0,Laboratories,1
+4.0,"Laundry, Late Hour",2
+4.0,Limited Business License,376
+4.0,Massage Establishment,16
+4.0,Massage Therapist,15
+4.0,Mobile Food License,1
+4.0,Motor Vehicle Repair : Engine Only (Class II),3
+4.0,Motor Vehicle Repair; Specialty(Class I),1
+4.0,Night Care Privilege,1
+4.0,Outdoor Patio,6
+4.0,Package Goods,24
+4.0,Peddler License,5
+4.0,"Peddler, non-food",27
+4.0,"Peddler, non-food, special",3
+4.0,"Peddler,food - (fruits and vegetables only) - special",3
+4.0,Pet Shop,2
+4.0,Private Booting Registration,4
+4.0,Public Place of Amusement,21
+4.0,Public Place of Amusement (PAV),13
+4.0,Public Place of Amusement-TCC,1
+4.0,Raffles,2
+4.0,Regulated Business License,49
+4.0,Residential Real Estate Developer,9
+4.0,Retail Computing Center,3
+4.0,Retail Food Establishment,174
+4.0,Secondhand Dealer,6
+4.0,Secondhand Dealer (No Valuable Objects),5
+4.0,Shared Housing Unit Operator,1
+4.0,Shared Kitchen User (Long Term),2
+4.0,Special Event Food,1
+4.0,Street Performer,15
+4.0,Tavern,7
+4.0,Tobacco,36
+4.0,Valet Parking Operator,3
+4.0,Veterinary Hospital,3
+5.0,Accessory Garage,11
+5.0,Animal Care License,2
+5.0,Auctioneer,2
+5.0,Automatic Amusement Device Operator,2
+5.0,Broker,3
+5.0,Caterer's Liquor License,2
+5.0,Children's Activities Facilities,1
+5.0,Children's Services Facility License,2
+5.0,Commercial Garage,7
+5.0,Commercial Passenger Vessel,1
+5.0,Consumption on Premises - Incidental Activity,6
+5.0,Day Care Center 2 - 6 Years,11
+5.0,Day Care Center Under 2 Years,3
+5.0,Day Care Center Under 2 and 2 - 6 Years,2
+5.0,Electronic Equipment Repair,10
+5.0,"Explosives, Certificate of Fitness",6
+5.0,Filling Station,4
+5.0,Hazardous Materials,10
+5.0,Home Occupation,122
+5.0,Home Repair,16
+5.0,Hospital,5
+5.0,Hotel,2
+5.0,"Laundry, Late Hour",2
+5.0,Limited Business License,229
+5.0,Long-Term Care Facility,1
+5.0,Manufacturing Establishments,1
+5.0,Massage Establishment,2
+5.0,Massage Therapist,16
+5.0,Motor Vehicle Repair : Engine Only (Class II),4
+5.0,Night Care Privilege,1
+5.0,Outdoor Patio,2
+5.0,Package Goods,4
+5.0,Peddler License,1
+5.0,"Peddler, food (fruits and vegtables only)",3
+5.0,"Peddler, non-food",25
+5.0,"Peddler, non-food, special",5
+5.0,"Peddler,food - (fruits and vegetables only) - special",2
+5.0,Pharmaceutical Representative,1
+5.0,Public Place of Amusement,2
+5.0,Public Place of Amusement (PAV),1
+5.0,Raffles,3
+5.0,Regulated Business License,32
+5.0,Residential Real Estate Developer,9
+5.0,Retail Computing Center,1
+5.0,Retail Food Establishment,78
+5.0,Secondhand Dealer,4
+5.0,Secondhand Dealer (No Valuable Objects),3
+5.0,Secondhand Dealer - Children's Products,1
+5.0,Shared Kitchen User (Long Term),3
+5.0,Single Room Occupancy Class I,2
+5.0,Special Event Food,2
+5.0,Street Performer,10
+5.0,"Tire Facilty Class I (100 - 1,000 Tires)",2
+5.0,Tobacco,30
+5.0,Veterinary Hospital,2
+6.0,Auctioneer,1
+6.0,Automatic Amusement Device Operator,2
+6.0,Broker,1
+6.0,Children's Activities Facilities,1
+6.0,Children's Services Facility License,6
+6.0,Commercial Garage,1
+6.0,Consumption on Premises - Incidental Activity,1
+6.0,Day Care Center 2 - 6 Years,14
+6.0,Day Care Center Under 2 Years,2
+6.0,Day Care Center Under 2 and 2 - 6 Years,13
+6.0,Electronic Equipment Repair,7
+6.0,Expediter - Class A,3
+6.0,Expediter - Class B,1
+6.0,Filling Station,26
+6.0,Grooming Facility,1
+6.0,Hazardous Materials,7
+6.0,Home Occupation,73
+6.0,Home Repair,39
+6.0,Junk Peddler,1
+6.0,Kennels and Catteries,2
+6.0,Late Hour,3
+6.0,"Laundry, Late Hour",1
+6.0,Limited Business License,423
+6.0,Long-Term Care Facility,3
+6.0,Manufacturing Establishments,3
+6.0,Massage Therapist,5
+6.0,Motor Vehicle Repair : Engine Only (Class II),16
+6.0,Motor Vehicle Repair: Engine/Body(Class III),4
+6.0,Motor Vehicle Repair; Specialty(Class I),9
+6.0,Motor Vehicle Services License,8
+6.0,Night Care Privilege,3
+6.0,Package Goods,6
+6.0,Peddler License,5
+6.0,"Peddler, food (fruits and vegtables only)",8
+6.0,"Peddler, non-food",20
+6.0,"Peddler, non-food, special",10
+6.0,"Peddler,food - (fruits and vegetables only) - special",4
+6.0,Pop-Up Retail User,1
+6.0,Public Place of Amusement,2
+6.0,Regulated Business License,13
+6.0,Residential Real Estate Developer,6
+6.0,Retail Computing Center,2
+6.0,Retail Food Establishment,180
+6.0,Secondhand Dealer,2
+6.0,Secondhand Dealer (No Valuable Objects),1
+6.0,Street Performer,9
+6.0,Tavern,6
+6.0,"Tire Facilty Class I (100 - 1,000 Tires)",5
+6.0,Tobacco,103
+6.0,Tobacco Dealer Wholesale,1
+6.0,"Tobacco Vending, Individual",1
+7.0,Children's Services Facility License,6
+7.0,Commercial Garage,2
+7.0,Consumption on Premises - Incidental Activity,5
+7.0,Day Care Center 2 - 6 Years,20
+7.0,Day Care Center Under 2 Years,4
+7.0,Day Care Center Under 2 and 2 - 6 Years,6
+7.0,Electronic Equipment Repair,3
+7.0,Filling Station,3
+7.0,Food - Shared Kitchen - Supplemental,3
+7.0,Hazardous Materials,4
+7.0,Home Occupation,77
+7.0,Home Repair,26
+7.0,Hospital,1
+7.0,Junk Peddler,2
+7.0,Kennels and Catteries,1
+7.0,Laboratories,1
+7.0,"Laundry, Late Hour",3
+7.0,Limited Business License,194
+7.0,Long-Term Care Facility,3
+7.0,Massage Establishment,1
+7.0,Massage Therapist,5
+7.0,Motor Vehicle Repair : Engine Only (Class II),8
+7.0,Motor Vehicle Repair: Engine/Body(Class III),3
+7.0,Motor Vehicle Repair; Specialty(Class I),1
+7.0,Motor Vehicle Services License,2
+7.0,Night Care Privilege,3
+7.0,Package Goods,11
+7.0,Peddler License,2
+7.0,"Peddler, food (fruits and vegtables only)",8
+7.0,"Peddler, non-food",38
+7.0,"Peddler, non-food, special",9
+7.0,"Peddler,food - (fruits and vegetables only) - special",3
+7.0,Pet Shop,2
+7.0,Public Place of Amusement,2
+7.0,Raffles,1
+7.0,Regulated Business License,11
+7.0,Residential Real Estate Developer,2
+7.0,Retail Computing Center,1
+7.0,Retail Food Establishment,91
+7.0,Secondhand Dealer,1
+7.0,Secondhand Dealer (No Valuable Objects),3
+7.0,Single Room Occupancy Class I,1
+7.0,Street Performer,16
+7.0,Tavern,2
+7.0,"Tire Facilty Class I (100 - 1,000 Tires)",2
+7.0,Tobacco,51
+7.0,Valet Parking Operator,1
+7.0,Veterinary Hospital,1
+8.0,Animal Care License,1
+8.0,Automatic Amusement Device Operator,2
+8.0,Board-Up Work,1
+8.0,Body Piercing,2
+8.0,Broker,1
+8.0,Caterer's Liquor License,1
+8.0,Children's Activities Facilities,1
+8.0,Children's Services Facility License,6
+8.0,Consumption on Premises - Incidental Activity,1
+8.0,Day Care Center 2 - 6 Years,16
+8.0,Day Care Center Under 2 Years,8
+8.0,Day Care Center Under 2 and 2 - 6 Years,6
+8.0,Electronic Equipment Repair,10
+8.0,Filling Station,11
+8.0,Hazardous Materials,23
+8.0,Home Occupation,93
+8.0,Home Repair,35
+8.0,Hospital,2
+8.0,Hotel,10
+8.0,Kennels and Catteries,2
+8.0,"Laundry, Late Hour",1
+8.0,Limited Business License,410
+8.0,Manufacturing Establishments,1
+8.0,Massage Establishment,1
+8.0,Massage Therapist,13
+8.0,Mobile Food Dispenser,2
+8.0,Motor Vehicle Repair : Engine Only (Class II),24
+8.0,Motor Vehicle Repair: Engine/Body(Class III),6
+8.0,Motor Vehicle Repair; Specialty(Class I),3
+8.0,Motor Vehicle Services License,2
+8.0,Music and Dance,2
+8.0,Night Care Privilege,2
+8.0,Package Goods,7
+8.0,Peddler License,6
+8.0,"Peddler, food (fruits and vegtables only)",4
+8.0,"Peddler, non-food",24
+8.0,"Peddler, non-food, special",7
+8.0,"Peddler,food - (fruits and vegetables only) - special",4
+8.0,Public Place of Amusement,1
+8.0,Regulated Business License,16
+8.0,Residential Real Estate Developer,4
+8.0,Retail Computing Center,1
+8.0,Retail Food Establishment,148
+8.0,Secondhand Dealer,5
+8.0,Secondhand Dealer (No Valuable Objects),3
+8.0,Single Room Occupancy Class I,1
+8.0,Street Performer,6
+8.0,Tavern,3
+8.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+8.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+8.0,Tobacco,66
+8.0,Veterinary Hospital,1
+8.0,Wholesale Food Establishment,7
+9.0,Automatic Amusement Device Operator,1
+9.0,Body Piercing,1
+9.0,Children's Activities Facilities,2
+9.0,Children's Services Facility License,2
+9.0,Commercial Garage,1
+9.0,Consumption on Premises - Incidental Activity,1
+9.0,Day Care Center 2 - 6 Years,17
+9.0,Day Care Center Under 2 Years,3
+9.0,Day Care Center Under 2 and 2 - 6 Years,15
+9.0,Electronic Equipment Repair,3
+9.0,Expediter - Class B,1
+9.0,Expediter - Class B Employee,1
+9.0,Filling Station,8
+9.0,Grooming Facility,1
+9.0,Hazardous Materials,23
+9.0,Home Occupation,61
+9.0,Home Repair,37
+9.0,Hospital,1
+9.0,Hotel,2
+9.0,Junk Peddler,1
+9.0,Laboratories,2
+9.0,"Laundry, Late Hour",1
+9.0,Limited Business License,266
+9.0,Manufacturing Establishments,1
+9.0,Massage Therapist,3
+9.0,Mobile Food License,2
+9.0,Mobile Frozen Desserts Dispenser - Non-Motorized,1
+9.0,Motor Vehicle Repair : Engine Only (Class II),15
+9.0,Motor Vehicle Repair: Engine/Body(Class III),6
+9.0,Motor Vehicle Repair; Specialty(Class I),2
+9.0,Motor Vehicle Services License,5
+9.0,Night Care Privilege,1
+9.0,Package Goods,4
+9.0,Peddler License,4
+9.0,"Peddler, food (fruits and vegtables only)",18
+9.0,"Peddler, non-food",19
+9.0,"Peddler, non-food, special",13
+9.0,"Peddler,food - (fruits and vegetables only) - special",4
+9.0,Pop-Up Retail User,1
+9.0,Public Place of Amusement,2
+9.0,Regulated Business License,15
+9.0,Residential Real Estate Developer,7
+9.0,Retail Food Establishment,112
+9.0,"Scavenger, Private",15
+9.0,Secondhand Dealer,1
+9.0,Secondhand Dealer (No Valuable Objects),1
+9.0,Shared Housing Unit Operator,1
+9.0,Shared Kitchen User (Long Term),1
+9.0,Single Room Occupancy Class I,3
+9.0,Street Performer,7
+9.0,Tavern,1
+9.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+9.0,"Tire Facilty Class I (100 - 1,000 Tires)",3
+9.0,Tobacco,61
+9.0,Valet Parking Operator,1
+9.0,Veterinary Hospital,1
+10.0,Animal Care Facility,1
+10.0,Animal Care License,3
+10.0,Assisted Living/Shared Housing Establishment,1
+10.0,Auctioneer,1
+10.0,Automatic Amusement Device Operator,2
+10.0,Broker,7
+10.0,Children's Activities Facilities,1
+10.0,Children's Services Facility License,3
+10.0,Consumption on Premises - Incidental Activity,5
+10.0,Day Care Center 2 - 6 Years,15
+10.0,Day Care Center Under 2 Years,3
+10.0,Day Care Center Under 2 and 2 - 6 Years,4
+10.0,Day Labor Agency,1
+10.0,Electronic Equipment Repair,7
+10.0,"Explosives, Certificate of Fitness",2
+10.0,Filling Station,3
+10.0,Grooming Facility,1
+10.0,Hazardous Materials,72
+10.0,Home Occupation,44
+10.0,Home Repair,42
+10.0,Junk Peddler,15
+10.0,Kennels and Catteries,1
+10.0,Laboratories,2
+10.0,Late Hour,1
+10.0,"Laundry, Late Hour",2
+10.0,Limited Business License,306
+10.0,Long-Term Care Facility,1
+10.0,Manufacturing Establishments,3
+10.0,Massage Establishment,1
+10.0,Massage Therapist,9
+10.0,Mobile Food Dispenser,18
+10.0,Mobile Food License,1
+10.0,Mobile Frozen Desserts Dispenser - Non-Motorized,6
+10.0,Motor Vehicle Repair : Engine Only (Class II),30
+10.0,Motor Vehicle Repair: Engine/Body(Class III),10
+10.0,Motor Vehicle Repair; Specialty(Class I),13
+10.0,Motor Vehicle Services License,10
+10.0,Not-For-Profit Club,1
+10.0,Package Goods,15
+10.0,Peddler License,5
+10.0,"Peddler, food (fruits and vegtables only)",10
+10.0,"Peddler, non-food",6
+10.0,"Peddler, non-food, special",2
+10.0,Pet Shop,2
+10.0,Regulated Business License,13
+10.0,Repossessor Class A,1
+10.0,Repossessor Class B Employee,1
+10.0,Residential Real Estate Developer,3
+10.0,Retail Computing Center,1
+10.0,Retail Food Establishment,107
+10.0,Secondhand Dealer,3
+10.0,Secondhand Dealer (No Valuable Objects),1
+10.0,Single Room Occupancy Class I,1
+10.0,Single Room Occupancy Class II,2
+10.0,Special Event Liquor,1
+10.0,Street Performer,3
+10.0,Tavern,8
+10.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+10.0,"Tire Facilty Class I (100 - 1,000 Tires)",10
+10.0,Tobacco,32
+10.0,"Tobacco Vending, Individual",1
+10.0,Veterinary Hospital,1
+10.0,Wholesale Food Establishment,5
+11.0,Accessory Garage,1
+11.0,Auctioneer,1
+11.0,Bed-And-Breakfast Establishment,2
+11.0,Bicycle Messenger Service,1
+11.0,Body Piercing,2
+11.0,Broker,18
+11.0,Children's Activities Facilities,7
+11.0,Children's Services Facility License,5
+11.0,Commercial Garage,1
+11.0,Consumption on Premises - Incidental Activity,51
+11.0,Day Care Center 2 - 6 Years,8
+11.0,Day Care Center Under 2 Years,1
+11.0,Day Care Center Under 2 and 2 - 6 Years,3
+11.0,Electronic Equipment Repair,4
+11.0,Expediter - Class A,1
+11.0,Expediter - Class B Employee,1
+11.0,"Explosives, Certificate of Fitness",2
+11.0,Filling Station,10
+11.0,Grooming Facility,2
+11.0,Hazardous Materials,52
+11.0,Home Occupation,66
+11.0,Home Repair,54
+11.0,Junk Peddler,2
+11.0,Limited Business License,579
+11.0,Manufacturing Establishments,23
+11.0,Massage Establishment,43
+11.0,Massage Therapist,50
+11.0,Mobile Food Dispenser,28
+11.0,Mobile Food License,2
+11.0,Motor Vehicle Repair : Engine Only (Class II),34
+11.0,Motor Vehicle Repair: Engine/Body(Class III),10
+11.0,Motor Vehicle Repair; Specialty(Class I),6
+11.0,Motor Vehicle Services License,7
+11.0,Outdoor Patio,9
+11.0,Package Goods,11
+11.0,Peddler License,4
+11.0,"Peddler, food (fruits and vegtables only)",4
+11.0,"Peddler, non-food",18
+11.0,"Peddler, non-food, special",1
+11.0,Pet Shop,1
+11.0,Public Place of Amusement,3
+11.0,Raffles,8
+11.0,Regulated Business License,32
+11.0,Residential Real Estate Developer,9
+11.0,Retail Computing Center,1
+11.0,Retail Food Establishment,210
+11.0,Secondhand Dealer,4
+11.0,Secondhand Dealer (No Valuable Objects),2
+11.0,Shared Housing Unit Operator,1
+11.0,Shared Kitchen User (Long Term),1
+11.0,Single Room Occupancy Class I,4
+11.0,Single Room Occupancy Class II,1
+11.0,Street Performer,12
+11.0,Tavern,8
+11.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+11.0,"Tire Facilty Class I (100 - 1,000 Tires)",4
+11.0,Tobacco,45
+11.0,Vacation Rental,3
+11.0,Weapons Dealer,2
+11.0,Wholesale Food Establishment,39
+12.0,Animal Care Facility,1
+12.0,Animal Care License,3
+12.0,Animal Exhibition,1
+12.0,Body Piercing,4
+12.0,Broker,8
+12.0,Caterer's Liquor License,1
+12.0,Children's Activities Facilities,1
+12.0,Children's Services Facility License,3
+12.0,Consumption on Premises - Incidental Activity,12
+12.0,Day Care Center 2 - 6 Years,4
+12.0,Day Care Center Under 2 and 2 - 6 Years,3
+12.0,Day Labor Agency,2
+12.0,Electronic Equipment Repair,12
+12.0,Expediter - Class B,1
+12.0,Filling Station,9
+12.0,Grooming Facility,2
+12.0,Hazardous Materials,42
+12.0,Home Occupation,46
+12.0,Home Repair,54
+12.0,Junk Peddler,4
+12.0,Kennels and Catteries,1
+12.0,Laboratories,1
+12.0,Late Hour,4
+12.0,"Laundry, Late Hour",5
+12.0,Limited Business License,571
+12.0,Long-Term Care Facility,1
+12.0,Manufacturing Establishments,10
+12.0,Massage Establishment,6
+12.0,Massage Therapist,4
+12.0,Mobile Food Dispenser,2
+12.0,Mobile Food License,8
+12.0,Motor Vehicle Repair : Engine Only (Class II),42
+12.0,Motor Vehicle Repair: Engine/Body(Class III),10
+12.0,Motor Vehicle Repair; Specialty(Class I),11
+12.0,Motor Vehicle Services License,9
+12.0,Package Goods,6
+12.0,Peddler License,7
+12.0,"Peddler, food (fruits and vegtables only)",30
+12.0,"Peddler, non-food",14
+12.0,"Peddler, non-food, special",2
+12.0,"Peddler,food - (fruits and vegetables only) - special",2
+12.0,Pet Shop,3
+12.0,Pop-Up Retail User,2
+12.0,Produce Merchant,1
+12.0,Public Place of Amusement,13
+12.0,Regulated Business License,20
+12.0,Retail Computing Center,4
+12.0,Retail Food Establishment,114
+12.0,Secondhand Dealer,4
+12.0,Secondhand Dealer (No Valuable Objects),3
+12.0,Shared Kitchen User (Long Term),1
+12.0,Single Room Occupancy Class I,3
+12.0,Street Performer,3
+12.0,Tavern,24
+12.0,"Tire Facilty Class I (100 - 1,000 Tires)",11
+12.0,Tobacco,29
+12.0,Valet Parking Operator,1
+12.0,Veterinary Hospital,2
+12.0,Wholesale Food Establishment,23
+13.0,Airport Pushcart Liquor Midway - Class A,1
+13.0,Animal Care Facility,2
+13.0,Animal Care License,5
+13.0,Automatic Amusement Device Operator,1
+13.0,Broker,11
+13.0,Children's Activities Facilities,2
+13.0,Children's Services Facility License,1
+13.0,Commercial Passenger Vessel,1
+13.0,Consumption on Premises - Incidental Activity,12
+13.0,Day Care Center 2 - 6 Years,3
+13.0,Day Care Center Under 2 Years,1
+13.0,Day Care Center Under 2 and 2 - 6 Years,1
+13.0,Day Labor Agency,1
+13.0,Electronic Equipment Repair,6
+13.0,Expediter - Class B,5
+13.0,Expediter - Class B Employee,2
+13.0,Filling Station,4
+13.0,Grooming Facility,4
+13.0,Hazardous Materials,31
+13.0,Home Occupation,56
+13.0,Home Repair,50
+13.0,Junk Peddler,2
+13.0,Kennels and Catteries,5
+13.0,"Laundry, Late Hour",1
+13.0,Limited Business License,323
+13.0,Liquor Airport Pushcart License,2
+13.0,Massage Establishment,1
+13.0,Massage Therapist,10
+13.0,Motor Vehicle Repair : Engine Only (Class II),28
+13.0,Motor Vehicle Repair: Engine/Body(Class III),13
+13.0,Motor Vehicle Repair; Specialty(Class I),3
+13.0,Motor Vehicle Services License,7
+13.0,Package Goods,3
+13.0,Peddler License,3
+13.0,"Peddler, food (fruits and vegtables only)",8
+13.0,"Peddler, non-food",7
+13.0,"Peddler,food - (fruits and vegetables only) - special",2
+13.0,Pet Shop,2
+13.0,Regulated Business License,25
+13.0,Residential Real Estate Developer,1
+13.0,Retail Computing Center,1
+13.0,Retail Food Establishment,97
+13.0,Secondhand Dealer,1
+13.0,Secondhand Dealer (No Valuable Objects),2
+13.0,Shared Kitchen User (Long Term),1
+13.0,Street Performer,4
+13.0,Tavern,4
+13.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+13.0,"Tire Facilty Class I (100 - 1,000 Tires)",3
+13.0,Tobacco,29
+13.0,Veterinary Hospital,2
+13.0,Wholesale Food Establishment,2
+14.0,Animal Exhibition,1
+14.0,Automatic Amusement Device Operator,1
+14.0,Body Piercing,1
+14.0,Broker,15
+14.0,Children's Activities Facilities,1
+14.0,Children's Services Facility License,1
+14.0,Commercial Garage,1
+14.0,Consumption on Premises - Incidental Activity,14
+14.0,Day Care Center 2 - 6 Years,4
+14.0,Day Care Center Under 2 Years,2
+14.0,Day Care Center Under 2 and 2 - 6 Years,4
+14.0,Day Labor Agency,4
+14.0,Electronic Equipment Repair,13
+14.0,Expediter - Class B,2
+14.0,Filling Station,7
+14.0,Hazardous Materials,52
+14.0,Home Occupation,36
+14.0,Home Repair,39
+14.0,Hotel,2
+14.0,Junk Peddler,8
+14.0,Laboratories,1
+14.0,"Laundry, Late Hour",10
+14.0,Limited Business License,502
+14.0,Manufacturing Establishments,9
+14.0,Massage Establishment,4
+14.0,Massage Therapist,5
+14.0,Mobile Food Dispenser,2
+14.0,Motor Vehicle Repair : Engine Only (Class II),30
+14.0,Motor Vehicle Repair: Engine/Body(Class III),11
+14.0,Motor Vehicle Repair; Specialty(Class I),6
+14.0,Motor Vehicle Services License,5
+14.0,Music and Dance,1
+14.0,Package Goods,5
+14.0,Pawnbroker,1
+14.0,Peddler License,5
+14.0,"Peddler, food (fruits and vegtables only)",32
+14.0,"Peddler, non-food",14
+14.0,"Peddler, non-food, special",3
+14.0,"Peddler,food - (fruits and vegetables only) - special",2
+14.0,Regulated Business License,31
+14.0,Residential Real Estate Developer,1
+14.0,Retail Computing Center,8
+14.0,Retail Food Establishment,157
+14.0,"Scavenger, Private",2
+14.0,Secondhand Dealer,8
+14.0,Secondhand Dealer (No Valuable Objects),1
+14.0,Secondhand Dealer - Children's Products,1
+14.0,Street Performer,3
+14.0,Tavern,2
+14.0,"Tire Facilty Class I (100 - 1,000 Tires)",3
+14.0,Tobacco,40
+14.0,Wholesale Food Establishment,12
+15.0,Animal Care License,2
+15.0,Automatic Amusement Device Operator,1
+15.0,Broker,9
+15.0,Children's Services Facility License,4
+15.0,Consumption on Premises - Incidental Activity,1
+15.0,Day Care Center 2 - 6 Years,6
+15.0,Day Care Center Under 2 Years,2
+15.0,Day Care Center Under 2 and 2 - 6 Years,5
+15.0,Electronic Equipment Repair,11
+15.0,Filling Station,15
+15.0,Hazardous Materials,23
+15.0,Home Occupation,37
+15.0,Home Repair,33
+15.0,Junk Peddler,11
+15.0,Late Hour,1
+15.0,"Laundry, Late Hour",6
+15.0,Limited Business License,395
+15.0,Long-Term Care Facility,2
+15.0,Manufacturing Establishments,3
+15.0,Massage Therapist,5
+15.0,Mobile Food Dispenser,73
+15.0,Mobile Frozen Desserts Dispenser - Non-Motorized,25
+15.0,Motor Vehicle Repair : Engine Only (Class II),41
+15.0,Motor Vehicle Repair: Engine/Body(Class III),17
+15.0,Motor Vehicle Repair; Specialty(Class I),11
+15.0,Motor Vehicle Services License,10
+15.0,Music and Dance,1
+15.0,Not-For-Profit Club,2
+15.0,Package Goods,3
+15.0,Peddler License,3
+15.0,"Peddler, food (fruits and vegtables only)",46
+15.0,"Peddler, non-food",19
+15.0,"Peddler, non-food, special",4
+15.0,"Peddler,food - (fruits and vegetables only) - special",5
+15.0,Pet Shop,2
+15.0,Public Place of Amusement,3
+15.0,Regulated Business License,28
+15.0,Residential Real Estate Developer,2
+15.0,Retail Computing Center,9
+15.0,Retail Food Establishment,128
+15.0,Secondhand Dealer,5
+15.0,Secondhand Dealer (No Valuable Objects),1
+15.0,Shared Kitchen User (Long Term),1
+15.0,Single Room Occupancy Class II,1
+15.0,Street Performer,2
+15.0,Tavern,34
+15.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+15.0,"Tire Facilty Class I (100 - 1,000 Tires)",15
+15.0,Tobacco,72
+15.0,"Tobacco Vending, Individual",1
+15.0,Veterinary Hospital,1
+15.0,Wholesale Food Establishment,8
+16.0,Body Piercing,2
+16.0,Broker,2
+16.0,Children's Services Facility License,5
+16.0,Consumption on Premises - Incidental Activity,4
+16.0,Day Care Center 2 - 6 Years,12
+16.0,Day Care Center Under 2 Years,4
+16.0,Day Care Center Under 2 and 2 - 6 Years,9
+16.0,Electronic Equipment Repair,4
+16.0,Expediter - Class A,1
+16.0,Expediter - Class B,1
+16.0,Expediter - Class B Employee,1
+16.0,Filling Station,19
+16.0,Hazardous Materials,13
+16.0,Home Occupation,29
+16.0,Home Repair,31
+16.0,Hospital,1
+16.0,Hotel,1
+16.0,Junk Peddler,1
+16.0,Laboratories,1
+16.0,"Laundry, Late Hour",6
+16.0,Limited Business License,404
+16.0,Long-Term Care Facility,1
+16.0,Manufacturing Establishments,3
+16.0,Mobile Food License,2
+16.0,Motor Vehicle Repair : Engine Only (Class II),31
+16.0,Motor Vehicle Repair: Engine/Body(Class III),15
+16.0,Motor Vehicle Repair; Specialty(Class I),14
+16.0,Motor Vehicle Services License,10
+16.0,Package Goods,24
+16.0,Peddler License,2
+16.0,"Peddler, food (fruits and vegtables only)",13
+16.0,"Peddler, non-food",20
+16.0,"Peddler, non-food, special",11
+16.0,"Peddler,food - (fruits and vegetables only) - special",5
+16.0,Public Place of Amusement,1
+16.0,Regulated Business License,10
+16.0,Residential Real Estate Developer,1
+16.0,Retail Food Establishment,209
+16.0,Secondhand Dealer,4
+16.0,Secondhand Dealer (No Valuable Objects),5
+16.0,Street Performer,6
+16.0,Tavern,6
+16.0,"Tire Facility Class II (1,001 - 5,000 Tires)",6
+16.0,"Tire Facilty Class I (100 - 1,000 Tires)",12
+16.0,Tobacco,110
+16.0,Wholesale Food Establishment,4
+17.0,Broker,1
+17.0,Children's Services Facility License,5
+17.0,Consumption on Premises - Incidental Activity,1
+17.0,Day Care Center 2 - 6 Years,12
+17.0,Day Care Center Under 2 Years,6
+17.0,Day Care Center Under 2 and 2 - 6 Years,10
+17.0,Electronic Equipment Repair,7
+17.0,Filling Station,15
+17.0,Hazardous Materials,10
+17.0,Home Occupation,51
+17.0,Home Repair,29
+17.0,Hotel,1
+17.0,Junk Peddler,1
+17.0,Laboratories,1
+17.0,Late Hour,1
+17.0,"Laundry, Late Hour",3
+17.0,Limited Business License,285
+17.0,Massage Therapist,2
+17.0,Mobile Food License,1
+17.0,Mobile Frozen Desserts Dispenser - Non-Motorized,1
+17.0,Motor Vehicle Repair : Engine Only (Class II),16
+17.0,Motor Vehicle Repair: Engine/Body(Class III),7
+17.0,Motor Vehicle Repair; Specialty(Class I),5
+17.0,Motor Vehicle Services License,3
+17.0,Night Care Privilege,1
+17.0,Package Goods,13
+17.0,Peddler License,3
+17.0,"Peddler, food (fruits and vegtables only)",11
+17.0,"Peddler, non-food",32
+17.0,"Peddler, non-food, special",3
+17.0,"Peddler,food - (fruits and vegetables only) - special",2
+17.0,Public Place of Amusement,1
+17.0,Regulated Business License,7
+17.0,Residential Real Estate Developer,3
+17.0,Retail Food Establishment,156
+17.0,Secondhand Dealer (No Valuable Objects),2
+17.0,Special Event Food,1
+17.0,Street Performer,5
+17.0,Tavern,3
+17.0,"Tire Facilty Class I (100 - 1,000 Tires)",6
+17.0,Tobacco,91
+17.0,Tobacco Dealer Wholesale,1
+17.0,Veterinary Hospital,1
+18.0,Animal Care Facility,1
+18.0,Animal Care License,1
+18.0,Body Piercing,4
+18.0,Broker,7
+18.0,Children's Activities Facilities,4
+18.0,Children's Services Facility License,12
+18.0,Commercial Garage,1
+18.0,Consumption on Premises - Incidental Activity,2
+18.0,Day Care Center 2 - 6 Years,18
+18.0,Day Care Center Under 2 Years,8
+18.0,Day Care Center Under 2 and 2 - 6 Years,11
+18.0,Electronic Equipment Repair,10
+18.0,Expediter - Class A,1
+18.0,Expediter - Class B,1
+18.0,Expediter - Class B Employee,1
+18.0,Filling Station,15
+18.0,Grooming Facility,4
+18.0,Hazardous Materials,24
+18.0,Home Occupation,73
+18.0,Home Repair,57
+18.0,Hotel,3
+18.0,Junk Peddler,1
+18.0,Kennels and Catteries,3
+18.0,Laboratories,1
+18.0,"Laundry, Late Hour",5
+18.0,Limited Business License,387
+18.0,Long-Term Care Facility,3
+18.0,Manufacturing Establishments,2
+18.0,Massage Establishment,2
+18.0,Massage Therapist,1
+18.0,Mobile Food Dispenser,1
+18.0,Mobile Food License,1
+18.0,Motor Vehicle Repair : Engine Only (Class II),36
+18.0,Motor Vehicle Repair: Engine/Body(Class III),19
+18.0,Motor Vehicle Repair; Specialty(Class I),4
+18.0,Motor Vehicle Services License,11
+18.0,Music and Dance,1
+18.0,Night Care Privilege,5
+18.0,Outdoor Patio,2
+18.0,Package Goods,7
+18.0,Peddler License,1
+18.0,"Peddler, food (fruits and vegtables only)",5
+18.0,"Peddler, non-food",20
+18.0,"Peddler, non-food, special",3
+18.0,"Peddler,food - (fruits and vegetables only) - special",1
+18.0,Pet Shop,2
+18.0,Regulated Business License,22
+18.0,Retail Food Establishment,112
+18.0,Secondhand Dealer,2
+18.0,Secondhand Dealer (No Valuable Objects),1
+18.0,Street Performer,3
+18.0,Tavern,6
+18.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+18.0,"Tire Facilty Class I (100 - 1,000 Tires)",4
+18.0,Tobacco,38
+18.0,Tobacco Dealer Wholesale,1
+18.0,Wholesale Food Establishment,3
+19.0,Animal Care Facility,3
+19.0,Animal Care License,3
+19.0,Automatic Amusement Device Operator,2
+19.0,Broker,6
+19.0,Caterer's Liquor License,1
+19.0,Children's Activities Facilities,6
+19.0,Children's Services Facility License,6
+19.0,Consumption on Premises - Incidental Activity,4
+19.0,Day Care Center 2 - 6 Years,8
+19.0,Day Care Center Under 2 Years,1
+19.0,Day Care Center Under 2 and 2 - 6 Years,3
+19.0,Electronic Equipment Repair,8
+19.0,Expediter - Class B,2
+19.0,Filling Station,3
+19.0,Grooming Facility,4
+19.0,Hazardous Materials,16
+19.0,Home Occupation,89
+19.0,Home Repair,59
+19.0,Kennels and Catteries,4
+19.0,Laboratories,2
+19.0,Limited Business License,346
+19.0,Long-Term Care Facility,4
+19.0,Massage Establishment,6
+19.0,Massage Therapist,21
+19.0,Motor Vehicle Repair : Engine Only (Class II),26
+19.0,Motor Vehicle Repair: Engine/Body(Class III),4
+19.0,Motor Vehicle Repair; Specialty(Class I),2
+19.0,Motor Vehicle Services License,4
+19.0,Music and Dance,1
+19.0,Outdoor Patio,7
+19.0,Package Goods,12
+19.0,Peddler License,2
+19.0,"Peddler, non-food",5
+19.0,"Peddler, non-food, special",4
+19.0,Pet Shop,2
+19.0,Public Place of Amusement,1
+19.0,Public Place of Amusement (PAV),2
+19.0,Regulated Business License,22
+19.0,Residential Real Estate Developer,4
+19.0,Retail Computing Center,2
+19.0,Retail Food Establishment,87
+19.0,Secondhand Dealer,4
+19.0,Secondhand Dealer (No Valuable Objects),2
+19.0,Shared Kitchen User (Short Term),2
+19.0,Street Performer,7
+19.0,Tavern,36
+19.0,"Tire Facilty Class I (100 - 1,000 Tires)",3
+19.0,Tobacco,28
+19.0,"Tobacco Vending, Individual",1
+19.0,Veterinary Hospital,1
+20.0,Accessory Garage,2
+20.0,Animal Exhibition,1
+20.0,Bed-And-Breakfast Establishment,1
+20.0,Children's Activities Facilities,1
+20.0,Children's Services Facility License,9
+20.0,Commercial Garage,1
+20.0,Consumption on Premises - Incidental Activity,2
+20.0,Day Care Center 2 - 6 Years,13
+20.0,Day Care Center Under 2 Years,4
+20.0,Day Care Center Under 2 and 2 - 6 Years,6
+20.0,Day Labor Agency,1
+20.0,Electronic Equipment Repair,5
+20.0,Expediter - Class B,2
+20.0,Filling Station,10
+20.0,Food - Shared Kitchen - Supplemental,1
+20.0,Hazardous Materials,11
+20.0,Home Occupation,33
+20.0,Home Repair,28
+20.0,Hospital,1
+20.0,Hotel,1
+20.0,Humane Society,1
+20.0,Junk Peddler,4
+20.0,"Laundry, Late Hour",5
+20.0,Limited Business License,293
+20.0,Manufacturing Establishments,2
+20.0,Massage Therapist,6
+20.0,Mobile Food License,1
+20.0,Mobile Frozen Desserts Dispenser - Non-Motorized,2
+20.0,Motor Vehicle Repair : Engine Only (Class II),13
+20.0,Motor Vehicle Repair: Engine/Body(Class III),1
+20.0,Motor Vehicle Repair; Specialty(Class I),12
+20.0,Night Care Privilege,2
+20.0,Package Goods,6
+20.0,Pawnbroker,2
+20.0,Peddler License,3
+20.0,"Peddler, food (fruits and vegtables only)",13
+20.0,"Peddler, non-food",33
+20.0,"Peddler, non-food, special",12
+20.0,"Peddler,food - (fruits and vegetables only) - special",3
+20.0,Regulated Business License,16
+20.0,Residential Real Estate Developer,7
+20.0,Retail Food Establishment,155
+20.0,Secondhand Dealer,3
+20.0,Secondhand Dealer (No Valuable Objects),4
+20.0,Single Room Occupancy Class I,2
+20.0,Single Room Occupancy Class II,1
+20.0,Street Performer,5
+20.0,Tavern,4
+20.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+20.0,"Tire Facilty Class I (100 - 1,000 Tires)",8
+20.0,Tobacco,61
+20.0,Veterinary Hospital,2
+20.0,Wholesale Food Establishment,1
+21.0,Animal Care Facility,1
+21.0,Animal Care License,1
+21.0,Body Piercing,2
+21.0,Children's Services Facility License,9
+21.0,Consumption on Premises - Incidental Activity,1
+21.0,Day Care Center 2 - 6 Years,21
+21.0,Day Care Center Under 2 Years,6
+21.0,Day Care Center Under 2 and 2 - 6 Years,11
+21.0,Electronic Equipment Repair,12
+21.0,Filling Station,18
+21.0,Hazardous Materials,18
+21.0,Home Occupation,75
+21.0,Home Repair,32
+21.0,Hotel,3
+21.0,Junk Peddler,1
+21.0,Laboratories,1
+21.0,"Laundry, Late Hour",1
+21.0,Limited Business License,350
+21.0,Long-Term Care Facility,2
+21.0,Manufacturing Establishments,1
+21.0,Massage Therapist,5
+21.0,Motor Vehicle Repair : Engine Only (Class II),26
+21.0,Motor Vehicle Repair: Engine/Body(Class III),12
+21.0,Motor Vehicle Repair; Specialty(Class I),8
+21.0,Motor Vehicle Services License,4
+21.0,Night Care Privilege,2
+21.0,Package Goods,6
+21.0,Peddler License,3
+21.0,"Peddler, food (fruits and vegtables only)",7
+21.0,"Peddler, non-food",27
+21.0,"Peddler, non-food, special",7
+21.0,"Peddler,food - (fruits and vegetables only) - special",2
+21.0,Pet Shop,2
+21.0,Pop-Up Retail User,2
+21.0,Public Place of Amusement,3
+21.0,Regulated Business License,18
+21.0,Residential Real Estate Developer,2
+21.0,Retail Food Establishment,145
+21.0,"Scavenger, Private",12
+21.0,Secondhand Dealer,4
+21.0,Secondhand Dealer (No Valuable Objects),2
+21.0,Single Room Occupancy Class I,2
+21.0,Street Performer,4
+21.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+21.0,"Tire Facilty Class I (100 - 1,000 Tires)",6
+21.0,Tobacco,64
+21.0,Tobacco Dealer Wholesale,2
+21.0,Veterinary Hospital,1
+21.0,Wholesale Food Establishment,3
+22.0,Animal Care License,3
+22.0,Body Piercing,1
+22.0,Broker,15
+22.0,Children's Activities Facilities,3
+22.0,Children's Services Facility License,2
+22.0,Commercial Garage,1
+22.0,Consumption on Premises - Incidental Activity,18
+22.0,Day Care Center 2 - 6 Years,4
+22.0,Day Care Center Under 2 Years,2
+22.0,Day Care Center Under 2 and 2 - 6 Years,1
+22.0,Day Labor Agency,3
+22.0,Electronic Equipment Repair,9
+22.0,Expediter - Class A,1
+22.0,Filling Station,10
+22.0,Hazardous Materials,37
+22.0,Home Occupation,36
+22.0,Home Repair,29
+22.0,Hotel,2
+22.0,Humane Society,1
+22.0,Junk Peddler,8
+22.0,Laboratories,1
+22.0,"Laundry, Late Hour",6
+22.0,Limited Business License,470
+22.0,Long-Term Care Facility,2
+22.0,Manufacturing Establishments,13
+22.0,Massage Therapist,10
+22.0,Mobile Food Dispenser,32
+22.0,Mobile Frozen Desserts Dispenser - Non-Motorized,9
+22.0,Motor Vehicle Repair : Engine Only (Class II),42
+22.0,Motor Vehicle Repair: Engine/Body(Class III),21
+22.0,Motor Vehicle Repair; Specialty(Class I),6
+22.0,Motor Vehicle Services License,13
+22.0,Outdoor Patio,2
+22.0,Package Goods,4
+22.0,Pawnbroker,1
+22.0,Peddler License,8
+22.0,"Peddler, food (fruits and vegtables only)",76
+22.0,"Peddler, non-food",23
+22.0,"Peddler, non-food, special",2
+22.0,"Peddler,food - (fruits and vegetables only) - special",6
+22.0,Pet Shop,1
+22.0,Produce Merchant,1
+22.0,Public Place of Amusement,16
+22.0,Regulated Business License,15
+22.0,Retail Computing Center,12
+22.0,Retail Food Establishment,148
+22.0,Secondhand Dealer,6
+22.0,Secondhand Dealer (No Valuable Objects),2
+22.0,Secondhand Dealer - Children's Products,1
+22.0,Shared Kitchen User (Long Term),5
+22.0,Tavern,7
+22.0,"Tire Facilty Class I (100 - 1,000 Tires)",9
+22.0,Tobacco,57
+22.0,Veterinary Hospital,1
+22.0,Wholesale Food Establishment,21
+23.0,Animal Care Facility,5
+23.0,Animal Care License,6
+23.0,Automatic Amusement Device Operator,1
+23.0,Body Piercing,3
+23.0,Broker,13
+23.0,Children's Activities Facilities,2
+23.0,Children's Services Facility License,3
+23.0,Commercial Garage,1
+23.0,Consumption on Premises - Incidental Activity,12
+23.0,Day Care Center 2 - 6 Years,6
+23.0,Day Care Center Under 2 Years,2
+23.0,Day Care Center Under 2 and 2 - 6 Years,2
+23.0,Day Labor Agency,1
+23.0,Electronic Equipment Repair,8
+23.0,Expediter - Class B,3
+23.0,Filling Station,3
+23.0,Grooming Facility,2
+23.0,Hazardous Materials,22
+23.0,Home Occupation,57
+23.0,Home Repair,42
+23.0,Hotel,2
+23.0,Junk Peddler,2
+23.0,Kennels and Catteries,2
+23.0,"Laundry, Late Hour",2
+23.0,Limited Business License,423
+23.0,Manufacturing Establishments,1
+23.0,Massage Establishment,3
+23.0,Massage Therapist,14
+23.0,Motor Vehicle Repair : Engine Only (Class II),25
+23.0,Motor Vehicle Repair: Engine/Body(Class III),7
+23.0,Motor Vehicle Repair; Specialty(Class I),3
+23.0,Motor Vehicle Services License,2
+23.0,Music and Dance,1
+23.0,Outdoor Patio,1
+23.0,Package Goods,10
+23.0,Pawnbroker,1
+23.0,Peddler License,2
+23.0,"Peddler, food (fruits and vegtables only)",6
+23.0,"Peddler, non-food",13
+23.0,"Peddler, non-food, special",3
+23.0,"Peddler,food - (fruits and vegetables only) - special",1
+23.0,Pet Shop,4
+23.0,Public Place of Amusement,2
+23.0,Raffles,1
+23.0,Regulated Business License,19
+23.0,Retail Computing Center,3
+23.0,Retail Food Establishment,114
+23.0,Secondhand Dealer,7
+23.0,Secondhand Dealer (No Valuable Objects),2
+23.0,Single Room Occupancy Class I,1
+23.0,Special Event Food,1
+23.0,Street Performer,3
+23.0,Tavern,7
+23.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+23.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+23.0,Tobacco,34
+23.0,Veterinary Hospital,2
+23.0,Wholesale Food Establishment,8
+24.0,Broker,4
+24.0,Children's Services Facility License,1
+24.0,Commercial Garage,1
+24.0,Consumption on Premises - Incidental Activity,6
+24.0,Day Care Center 2 - 6 Years,12
+24.0,Day Care Center Under 2 Years,4
+24.0,Day Care Center Under 2 and 2 - 6 Years,3
+24.0,Day Labor Agency,1
+24.0,Electronic Equipment Repair,6
+24.0,Expediter - Class A,1
+24.0,Expediter - Class B Employee,2
+24.0,Filling Station,9
+24.0,Grooming Facility,1
+24.0,Hazardous Materials,32
+24.0,Home Occupation,36
+24.0,Home Repair,39
+24.0,Junk Peddler,1
+24.0,Laboratories,1
+24.0,"Laundry, Late Hour",3
+24.0,Limited Business License,251
+24.0,Long-Term Care Facility,1
+24.0,Manufacturing Establishments,10
+24.0,Massage Establishment,1
+24.0,Massage Therapist,2
+24.0,Mobile Food Dispenser,72
+24.0,Mobile Food License,1
+24.0,Mobile Frozen Desserts Dispenser - Non-Motorized,66
+24.0,Motor Vehicle Repair : Engine Only (Class II),17
+24.0,Motor Vehicle Repair: Engine/Body(Class III),12
+24.0,Motor Vehicle Repair; Specialty(Class I),10
+24.0,Motor Vehicle Services License,5
+24.0,Night Care Privilege,1
+24.0,Not-For-Profit Club,1
+24.0,Package Goods,13
+24.0,Peddler License,4
+24.0,"Peddler, food (fruits and vegtables only)",16
+24.0,"Peddler, non-food",18
+24.0,"Peddler, non-food, special",5
+24.0,"Peddler,food - (fruits and vegetables only) - special",2
+24.0,Pet Shop,1
+24.0,Produce Merchant,4
+24.0,Public Place of Amusement,4
+24.0,Regulated Business License,10
+24.0,Residential Real Estate Developer,6
+24.0,Retail Computing Center,4
+24.0,Retail Food Establishment,184
+24.0,"Scavenger, Private",4
+24.0,Secondhand Dealer,3
+24.0,Shared Kitchen User (Long Term),1
+24.0,Special Event Liquor,1
+24.0,Street Performer,6
+24.0,Tavern,2
+24.0,"Tire Facilty Class I (100 - 1,000 Tires)",4
+24.0,Tobacco,88
+24.0,Tobacco Dealer Wholesale,1
+24.0,Wholesale Food Establishment,4
+25.0,Animal Care Facility,1
+25.0,Animal Care License,4
+25.0,Animal Exhibition,2
+25.0,Automatic Amusement Device Operator,1
+25.0,Bicycle Messenger Service,1
+25.0,Body Piercing,3
+25.0,Broker,11
+25.0,Caterer's Liquor License,8
+25.0,Children's Activities Facilities,1
+25.0,Children's Services Facility License,1
+25.0,Commercial Garage,2
+25.0,Consumption on Premises - Incidental Activity,38
+25.0,Day Care Center 2 - 6 Years,6
+25.0,Day Care Center Under 2 Years,1
+25.0,Day Care Center Under 2 and 2 - 6 Years,1
+25.0,Day Labor Agency,6
+25.0,Electronic Equipment Repair,13
+25.0,Expediter - Class B,1
+25.0,Filling Station,5
+25.0,Food - Shared Kitchen - Supplemental,1
+25.0,Grooming Facility,1
+25.0,Hazardous Materials,64
+25.0,Home Occupation,62
+25.0,Home Repair,42
+25.0,Hospital,1
+25.0,Junk Peddler,4
+25.0,Kennels and Catteries,1
+25.0,Late Hour,1
+25.0,"Laundry, Late Hour",3
+25.0,Limited Business License,768
+25.0,Long-Term Care Facility,1
+25.0,Manufacturing Establishments,19
+25.0,Massage Establishment,5
+25.0,Massage Therapist,9
+25.0,Mobile Food Dispenser,26
+25.0,Mobile Food License,12
+25.0,Mobile Frozen Desserts Dispenser - Non-Motorized,25
+25.0,Motor Vehicle Repair : Engine Only (Class II),42
+25.0,Motor Vehicle Repair: Engine/Body(Class III),12
+25.0,Motor Vehicle Repair; Specialty(Class I),17
+25.0,Motor Vehicle Services License,6
+25.0,Music and Dance,2
+25.0,Night Care Privilege,1
+25.0,Outdoor Patio,8
+25.0,Package Goods,5
+25.0,Peddler License,3
+25.0,"Peddler, food (fruits and vegtables only)",72
+25.0,"Peddler, non-food",16
+25.0,"Peddler, non-food, special",3
+25.0,"Peddler,food - (fruits and vegetables only) - special",6
+25.0,Pet Shop,5
+25.0,Private Booting Registration,3
+25.0,Public Place of Amusement,7
+25.0,Regulated Business License,36
+25.0,Residential Real Estate Developer,5
+25.0,Retail Computing Center,10
+25.0,Retail Food Establishment,238
+25.0,"Scavenger, Private",113
+25.0,Secondhand Dealer,3
+25.0,Secondhand Dealer (No Valuable Objects),4
+25.0,Shared Kitchen User (Long Term),5
+25.0,Single Room Occupancy Class I,3
+25.0,Special Event Food,2
+25.0,Street Performer,15
+25.0,Tavern,8
+25.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+25.0,"Tire Facilty Class I (100 - 1,000 Tires)",8
+25.0,Tobacco,61
+25.0,Tobacco Dealer Wholesale,1
+25.0,Weapons Dealer,1
+25.0,Wholesale Food Establishment,51
+26.0,Animal Care Facility,3
+26.0,Animal Care License,1
+26.0,Board-Up Work,3
+26.0,Body Piercing,1
+26.0,Broker,5
+26.0,Children's Activities Facilities,2
+26.0,Children's Services Facility License,5
+26.0,Consumption on Premises - Incidental Activity,9
+26.0,Day Care Center 2 - 6 Years,12
+26.0,Day Care Center Under 2 Years,3
+26.0,Day Care Center Under 2 and 2 - 6 Years,6
+26.0,Day Labor Agency,3
+26.0,Electronic Equipment Repair,5
+26.0,Expediter - Class B,4
+26.0,Filling Station,3
+26.0,Grooming Facility,1
+26.0,Hazardous Materials,22
+26.0,Home Occupation,48
+26.0,Home Repair,59
+26.0,Hospital,1
+26.0,Junk Peddler,10
+26.0,Kennels and Catteries,2
+26.0,"Laundry, Late Hour",8
+26.0,Limited Business License,502
+26.0,Long-Term Care Facility,2
+26.0,Manufacturing Establishments,10
+26.0,Massage Establishment,4
+26.0,Massage Therapist,4
+26.0,Mobile Frozen Desserts Dispenser - Non-Motorized,1
+26.0,Motor Vehicle Repair : Engine Only (Class II),45
+26.0,Motor Vehicle Repair: Engine/Body(Class III),7
+26.0,Motor Vehicle Repair; Specialty(Class I),7
+26.0,Motor Vehicle Services License,4
+26.0,Music and Dance,2
+26.0,Outdoor Patio,2
+26.0,Package Goods,15
+26.0,Peddler License,6
+26.0,"Peddler, food (fruits and vegtables only)",16
+26.0,"Peddler, non-food",16
+26.0,"Peddler, non-food, special",3
+26.0,"Peddler,food - (fruits and vegetables only) - special",2
+26.0,Pop-Up Retail User,1
+26.0,Public Place of Amusement,1
+26.0,Regulated Business License,38
+26.0,Residential Real Estate Developer,7
+26.0,Retail Computing Center,3
+26.0,Retail Food Establishment,169
+26.0,Secondhand Dealer,7
+26.0,Secondhand Dealer (No Valuable Objects),4
+26.0,Shared Housing Unit Operator,1
+26.0,Shared Kitchen User (Long Term),3
+26.0,Shared Kitchen User (Short Term),1
+26.0,Single Room Occupancy Class I,3
+26.0,Single Room Occupancy Class II,2
+26.0,Street Performer,12
+26.0,Tavern,11
+26.0,"Tire Facilty Class I (100 - 1,000 Tires)",6
+26.0,Tobacco,81
+26.0,Wholesale Food Establishment,4
+27.0,Accessory Garage,5
+27.0,Animal Care Facility,19
+27.0,Animal Care License,4
+27.0,Animal Exhibition,1
+27.0,Auctioneer,4
+27.0,Automatic Amusement Device Operator,3
+27.0,Bicycle Messenger Service,1
+27.0,Board-Up Work,1
+27.0,Body Piercing,1
+27.0,Broker,5
+27.0,Caterer's Liquor License,23
+27.0,Children's Activities Facilities,5
+27.0,Children's Services Facility License,9
+27.0,Class A - Indoor Special Event,1
+27.0,Commercial Garage,15
+27.0,Consumption on Premises - Incidental Activity,139
+27.0,Day Care Center 2 - 6 Years,18
+27.0,Day Care Center Under 2 Years,6
+27.0,Day Care Center Under 2 and 2 - 6 Years,6
+27.0,Electronic Equipment Repair,10
+27.0,Expediter - Class A,4
+27.0,Expediter - Class B,1
+27.0,Expediter - Class B Employee,4
+27.0,Filling Station,7
+27.0,Food - Shared Kitchen - Supplemental,2
+27.0,Grooming Facility,2
+27.0,Hazardous Materials,126
+27.0,Home Occupation,71
+27.0,Home Repair,66
+27.0,Hospital,3
+27.0,Humane Society,2
+27.0,Industrial Private Event Venue,3
+27.0,Junk Peddler,2
+27.0,Kennels and Catteries,15
+27.0,Laboratories,2
+27.0,Late Hour,43
+27.0,"Laundry, Late Hour",2
+27.0,Limited Business License,1013
+27.0,Long-Term Care Facility,2
+27.0,Manufacturing Establishments,28
+27.0,Massage Establishment,23
+27.0,Massage Therapist,9
+27.0,Mobile Food Dispenser,19
+27.0,Mobile Food License,10
+27.0,Mobile Frozen Desserts Dispenser - Non-Motorized,1
+27.0,Motor Vehicle Repair : Engine Only (Class II),41
+27.0,Motor Vehicle Repair: Engine/Body(Class III),22
+27.0,Motor Vehicle Repair; Specialty(Class I),4
+27.0,Motor Vehicle Services License,15
+27.0,Music and Dance,1
+27.0,Outdoor Patio,46
+27.0,Package Goods,16
+27.0,Peddler License,4
+27.0,"Peddler, food (fruits and vegtables only)",6
+27.0,"Peddler, non-food",17
+27.0,"Peddler, non-food, special",13
+27.0,"Peddler,food - (fruits and vegetables only) - special",5
+27.0,Pet Shop,1
+27.0,Pharmaceutical Representative,2
+27.0,Pop-Up Establishment Host - Tier II,1
+27.0,Produce Merchant,1
+27.0,Public Place of Amusement,61
+27.0,Public Place of Amusement (PAV),1
+27.0,Public Place of Amusement-TCC,1
+27.0,Raffles,9
+27.0,Regulated Business License,92
+27.0,Residential Real Estate Developer,79
+27.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,1
+27.0,Retail Food Establishment,419
+27.0,"Scavenger, Private",89
+27.0,Scooter Sharing License,2
+27.0,Secondhand Dealer,4
+27.0,Secondhand Dealer (No Valuable Objects),3
+27.0,Shared Housing Unit Operator,3
+27.0,Shared Kitchen User (Long Term),5
+27.0,Single Room Occupancy Class I,5
+27.0,Single Room Occupancy Class II,1
+27.0,Special Event Food,2
+27.0,Special Event Liquor,1
+27.0,Street Performer,15
+27.0,Tavern,60
+27.0,"Tire Facility Class II (1,001 - 5,000 Tires)",4
+27.0,"Tire Facilty Class I (100 - 1,000 Tires)",8
+27.0,Tobacco,116
+27.0,Tobacco Dealer Wholesale,1
+27.0,Tobacco Sampler,2
+27.0,Valet Parking Operator,37
+27.0,Veterinary Hospital,6
+27.0,Wholesale Food Establishment,75
+28.0,Accessory Garage,3
+28.0,Animal Care Facility,1
+28.0,Auctioneer,2
+28.0,Automatic Amusement Device Operator,1
+28.0,Board-Up Work,1
+28.0,Body Piercing,3
+28.0,Broker,3
+28.0,Caterer's Liquor License,1
+28.0,Children's Activities Facilities,3
+28.0,Children's Services Facility License,5
+28.0,Commercial Garage,9
+28.0,Consumption on Premises - Incidental Activity,26
+28.0,Day Care Center 2 - 6 Years,12
+28.0,Day Care Center Under 2 Years,2
+28.0,Day Care Center Under 2 and 2 - 6 Years,12
+28.0,Electronic Equipment Repair,13
+28.0,Expediter - Class A,1
+28.0,"Explosives, Certificate of Fitness",3
+28.0,Filling Station,19
+28.0,Food - Shared Kitchen,1
+28.0,Grooming Facility,3
+28.0,Hazardous Materials,47
+28.0,Home Occupation,42
+28.0,Home Repair,31
+28.0,Hospital,4
+28.0,Hotel,3
+28.0,Laboratories,2
+28.0,"Laundry, Late Hour",5
+28.0,Limited Business License,560
+28.0,Long-Term Care Facility,2
+28.0,Manufacturing Establishments,16
+28.0,Massage Establishment,2
+28.0,Massage Therapist,4
+28.0,Mobile Food Dispenser,2
+28.0,Motor Vehicle Repair : Engine Only (Class II),30
+28.0,Motor Vehicle Repair: Engine/Body(Class III),9
+28.0,Motor Vehicle Repair; Specialty(Class I),6
+28.0,Motor Vehicle Services License,12
+28.0,Outdoor Patio,6
+28.0,Package Goods,18
+28.0,Peddler License,2
+28.0,"Peddler, food (fruits and vegtables only)",9
+28.0,"Peddler, non-food",13
+28.0,"Peddler,food - (fruits and vegetables only) - special",2
+28.0,Pet Shop,2
+28.0,Pharmaceutical Representative,1
+28.0,Pop-Up Retail User,1
+28.0,Public Place of Amusement,4
+28.0,Public Place of Amusement (PAV),1
+28.0,Raffles,2
+28.0,Regulated Business License,21
+28.0,Residential Real Estate Developer,9
+28.0,Retail Computing Center,1
+28.0,Retail Food Establishment,285
+28.0,Secondhand Dealer,6
+28.0,Secondhand Dealer (No Valuable Objects),6
+28.0,Single Room Occupancy Class I,1
+28.0,Single Room Occupancy Class II,1
+28.0,Street Performer,7
+28.0,Tavern,3
+28.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+28.0,"Tire Facilty Class I (100 - 1,000 Tires)",9
+28.0,Tobacco,130
+28.0,Tobacco Dealer Wholesale,1
+28.0,Valet Parking Operator,2
+28.0,Veterinary Hospital,1
+28.0,Wholesale Food Establishment,7
+29.0,Animal Care License,2
+29.0,Automatic Amusement Device Operator,1
+29.0,Board-Up Work,2
+29.0,Body Piercing,1
+29.0,Broker,5
+29.0,Children's Activities Facilities,4
+29.0,Children's Services Facility License,9
+29.0,Consumption on Premises - Incidental Activity,13
+29.0,Day Care Center 2 - 6 Years,18
+29.0,Day Care Center Under 2 Years,3
+29.0,Day Care Center Under 2 and 2 - 6 Years,7
+29.0,Electronic Equipment Repair,6
+29.0,Expediter - Class A,1
+29.0,Expediter - Class B,1
+29.0,Filling Station,1
+29.0,Grooming Facility,3
+29.0,Hazardous Materials,44
+29.0,Home Occupation,68
+29.0,Home Repair,44
+29.0,Hospital,3
+29.0,Junk Peddler,2
+29.0,Kennels and Catteries,2
+29.0,Laboratories,3
+29.0,"Laundry, Late Hour",2
+29.0,Limited Business License,420
+29.0,Long-Term Care Facility,3
+29.0,Manufacturing Establishments,8
+29.0,Massage Establishment,2
+29.0,Massage Therapist,11
+29.0,Motor Vehicle Repair : Engine Only (Class II),28
+29.0,Motor Vehicle Repair: Engine/Body(Class III),12
+29.0,Motor Vehicle Repair; Specialty(Class I),5
+29.0,Motor Vehicle Services License,3
+29.0,Music and Dance,1
+29.0,Night Care Privilege,1
+29.0,Package Goods,6
+29.0,Pawnbroker,2
+29.0,"Peddler, food (fruits and vegtables only)",6
+29.0,"Peddler, non-food",24
+29.0,"Peddler, non-food, special",3
+29.0,"Peddler,food - (fruits and vegetables only) - special",1
+29.0,Pet Shop,1
+29.0,Regulated Business License,22
+29.0,Residential Real Estate Developer,3
+29.0,Retail Computing Center,2
+29.0,Retail Food Establishment,143
+29.0,"Scavenger, Private",25
+29.0,Secondhand Dealer,6
+29.0,Secondhand Dealer (No Valuable Objects),3
+29.0,Single Room Occupancy Class I,1
+29.0,Street Performer,4
+29.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+29.0,"Tire Facilty Class I (100 - 1,000 Tires)",6
+29.0,Tobacco,47
+29.0,Veterinary Hospital,1
+29.0,Wholesale Food Establishment,7
+30.0,Animal Care Facility,1
+30.0,Animal Care License,4
+30.0,Animal Exhibition,1
+30.0,Auctioneer,1
+30.0,Automatic Amusement Device Operator,2
+30.0,Body Piercing,2
+30.0,Broker,19
+30.0,Children's Activities Facilities,2
+30.0,Children's Services Facility License,3
+30.0,Consumption on Premises - Incidental Activity,29
+30.0,Day Care Center 2 - 6 Years,8
+30.0,Day Care Center Under 2 Years,2
+30.0,Day Care Center Under 2 and 2 - 6 Years,1
+30.0,Electronic Equipment Repair,9
+30.0,Expediter - Class B,1
+30.0,Filling Station,1
+30.0,Grooming Facility,1
+30.0,Hazardous Materials,24
+30.0,Home Occupation,81
+30.0,Home Repair,101
+30.0,Hospital,2
+30.0,Junk Peddler,15
+30.0,Kennels and Catteries,4
+30.0,Late Hour,2
+30.0,"Laundry, Late Hour",2
+30.0,Limited Business License,474
+30.0,Long-Term Care Facility,2
+30.0,Manufacturing Establishments,6
+30.0,Massage Establishment,9
+30.0,Massage Therapist,35
+30.0,Mobile Food Dispenser,1
+30.0,Mobile Food License,1
+30.0,Motor Vehicle Repair : Engine Only (Class II),42
+30.0,Motor Vehicle Repair: Engine/Body(Class III),25
+30.0,Motor Vehicle Repair; Specialty(Class I),4
+30.0,Motor Vehicle Services License,12
+30.0,Music and Dance,1
+30.0,Outdoor Patio,5
+30.0,Package Goods,14
+30.0,Peddler License,4
+30.0,"Peddler, food (fruits and vegtables only)",7
+30.0,"Peddler, non-food",15
+30.0,"Peddler, non-food, special",2
+30.0,"Peddler,food - (fruits and vegetables only) - special",2
+30.0,Pet Shop,1
+30.0,Public Place of Amusement,13
+30.0,Raffles,1
+30.0,Regulated Business License,34
+30.0,Residential Real Estate Developer,1
+30.0,Retail Computing Center,4
+30.0,Retail Food Establishment,162
+30.0,Secondhand Dealer,6
+30.0,Secondhand Dealer (No Valuable Objects),3
+30.0,Secondhand Dealer - Children's Products,3
+30.0,Shared Kitchen User (Long Term),1
+30.0,Single Room Occupancy Class II,1
+30.0,Street Performer,10
+30.0,Tavern,5
+30.0,"Tire Facilty Class I (100 - 1,000 Tires)",5
+30.0,Tobacco,42
+30.0,Tobacco Dealer Wholesale,1
+30.0,"Tobacco Vending, Individual",1
+30.0,Veterinary Hospital,2
+30.0,Wholesale Food Establishment,1
+31.0,Animal Care Facility,2
+31.0,Animal Care License,1
+31.0,Automatic Amusement Device Operator,2
+31.0,Board-Up Work,2
+31.0,Body Piercing,4
+31.0,Broker,19
+31.0,Children's Activities Facilities,3
+31.0,Children's Services Facility License,1
+31.0,Commercial Passenger Vessel,1
+31.0,Consumption on Premises - Incidental Activity,29
+31.0,Day Care Center 2 - 6 Years,5
+31.0,Day Care Center Under 2 and 2 - 6 Years,6
+31.0,Day Labor Agency,4
+31.0,Electronic Equipment Repair,16
+31.0,Expediter - Class A,3
+31.0,Expediter - Class B,1
+31.0,Filling Station,11
+31.0,Food - Shared Kitchen - Supplemental,3
+31.0,Hazardous Materials,26
+31.0,Home Occupation,50
+31.0,Home Repair,81
+31.0,Junk Peddler,12
+31.0,Kennels and Catteries,1
+31.0,Late Hour,1
+31.0,"Laundry, Late Hour",5
+31.0,Limited Business License,631
+31.0,Manufacturing Establishments,5
+31.0,Massage Establishment,6
+31.0,Massage Therapist,15
+31.0,Mobile Food Dispenser,31
+31.0,Mobile Frozen Desserts Dispenser - Non-Motorized,24
+31.0,Motor Vehicle Repair : Engine Only (Class II),51
+31.0,Motor Vehicle Repair: Engine/Body(Class III),34
+31.0,Motor Vehicle Repair; Specialty(Class I),13
+31.0,Motor Vehicle Services License,12
+31.0,Music and Dance,14
+31.0,Outdoor Patio,3
+31.0,Package Goods,9
+31.0,Peddler License,4
+31.0,"Peddler, food (fruits and vegtables only)",20
+31.0,"Peddler, non-food",18
+31.0,"Peddler, non-food, special",3
+31.0,"Peddler,food - (fruits and vegetables only) - special",5
+31.0,Pet Shop,3
+31.0,Pop-Up Establishment Host - Tier III,1
+31.0,Public Place of Amusement,12
+31.0,Public Place of Amusement (PAV),1
+31.0,Raffles,2
+31.0,Regulated Business License,41
+31.0,Residential Real Estate Developer,13
+31.0,Retail Computing Center,7
+31.0,Retail Food Establishment,171
+31.0,Secondhand Dealer,11
+31.0,Shared Housing Unit Operator,1
+31.0,Shared Kitchen User (Long Term),1
+31.0,Single Room Occupancy Class II,1
+31.0,Street Performer,10
+31.0,Tavern,15
+31.0,"Tire Facility Class II (1,001 - 5,000 Tires)",3
+31.0,"Tire Facilty Class I (100 - 1,000 Tires)",10
+31.0,Tobacco,51
+31.0,"Tobacco Vending, Individual",1
+31.0,Veterinary Hospital,6
+31.0,Wholesale Food Establishment,3
+32.0,Accessory Garage,2
+32.0,Animal Care Facility,19
+32.0,Animal Care License,11
+32.0,Assisted Living/Shared Housing Establishment,1
+32.0,Auctioneer,1
+32.0,Bed-And-Breakfast Establishment,1
+32.0,Board-Up Work,2
+32.0,Body Piercing,5
+32.0,Broker,5
+32.0,Caterer's Liquor License,1
+32.0,Children's Activities Facilities,19
+32.0,Children's Services Facility License,12
+32.0,Consumption on Premises - Incidental Activity,99
+32.0,Day Care Center 2 - 6 Years,7
+32.0,Day Care Center Under 2 Years,1
+32.0,Day Care Center Under 2 and 2 - 6 Years,9
+32.0,Day Labor Agency,2
+32.0,Electronic Equipment Repair,15
+32.0,Expediter - Class A,1
+32.0,Expediter - Class B,3
+32.0,Filling Station,4
+32.0,Food - Shared Kitchen - Supplemental,1
+32.0,Grooming Facility,7
+32.0,Hazardous Materials,42
+32.0,Home Occupation,152
+32.0,Home Repair,55
+32.0,Hotel,1
+32.0,Humane Society,4
+32.0,Kennels and Catteries,15
+32.0,Late Hour,11
+32.0,"Laundry, Late Hour",3
+32.0,Limited Business License,817
+32.0,Long-Term Care Facility,2
+32.0,Manufacturing Establishments,9
+32.0,Massage Establishment,41
+32.0,Massage Therapist,51
+32.0,Mobile Food Dispenser,4
+32.0,Mobile Food License,3
+32.0,Motor Vehicle Repair : Engine Only (Class II),36
+32.0,Motor Vehicle Repair: Engine/Body(Class III),7
+32.0,Motor Vehicle Repair; Specialty(Class I),12
+32.0,Motor Vehicle Services License,7
+32.0,Music and Dance,3
+32.0,Not-For-Profit Club,1
+32.0,Outdoor Patio,32
+32.0,Package Goods,43
+32.0,Peddler License,4
+32.0,"Peddler, food (fruits and vegtables only)",2
+32.0,"Peddler, non-food",12
+32.0,"Peddler, non-food, special",1
+32.0,"Peddler,food - (fruits and vegetables only) - special",1
+32.0,Pet Shop,5
+32.0,Pharmaceutical Representative,3
+32.0,Pop-Up Retail User,1
+32.0,Private Booting Operation,1
+32.0,Public Place of Amusement,19
+32.0,Public Place of Amusement (PAV),5
+32.0,Raffles,4
+32.0,Regulated Business License,117
+32.0,Residential Real Estate Developer,39
+32.0,Retail Computing Center,5
+32.0,Retail Food Establishment,255
+32.0,Secondhand Dealer,5
+32.0,Secondhand Dealer (No Valuable Objects),4
+32.0,Shared Housing Unit Operator,1
+32.0,Shared Kitchen User (Long Term),8
+32.0,Single Room Occupancy Class I,2
+32.0,Single Room Occupancy Class II,2
+32.0,Special Event Liquor,1
+32.0,Street Performer,13
+32.0,Tavern,23
+32.0,"Tire Facility Class II (1,001 - 5,000 Tires)",6
+32.0,"Tire Facility Class III (5,001 - More Tires)",1
+32.0,"Tire Facilty Class I (100 - 1,000 Tires)",8
+32.0,Tobacco,48
+32.0,Tobacco Dealer Wholesale,2
+32.0,Vacation Rental,27
+32.0,Valet Parking Operator,4
+32.0,Veterinary Hospital,9
+32.0,Weapons Dealer,1
+32.0,Wholesale Food Establishment,5
+33.0,Animal Care Facility,2
+33.0,Animal Care License,3
+33.0,Body Piercing,1
+33.0,Broker,25
+33.0,Children's Activities Facilities,3
+33.0,Children's Services Facility License,4
+33.0,Commercial Garage,2
+33.0,Consumption on Premises - Incidental Activity,24
+33.0,Day Care Center 2 - 6 Years,7
+33.0,Day Care Center Under 2 Years,2
+33.0,Day Care Center Under 2 and 2 - 6 Years,2
+33.0,Day Labor Agency,2
+33.0,Electronic Equipment Repair,14
+33.0,Expediter - Class B,3
+33.0,Filling Station,2
+33.0,Food - Shared Kitchen - Supplemental,3
+33.0,Grooming Facility,2
+33.0,Hazardous Materials,14
+33.0,Home Occupation,91
+33.0,Home Repair,49
+33.0,Humane Society,1
+33.0,Junk Peddler,12
+33.0,Kennels and Catteries,2
+33.0,Laboratories,1
+33.0,"Laundry, Late Hour",2
+33.0,Limited Business License,689
+33.0,Long-Term Care Facility,1
+33.0,Manufacturing Establishments,2
+33.0,Massage Establishment,5
+33.0,Massage Therapist,25
+33.0,Mobile Food Dispenser,73
+33.0,Mobile Food License,28
+33.0,Mobile Frozen Desserts Dispenser - Non-Motorized,92
+33.0,Motor Vehicle Repair : Engine Only (Class II),38
+33.0,Motor Vehicle Repair: Engine/Body(Class III),14
+33.0,Motor Vehicle Repair; Specialty(Class I),5
+33.0,Motor Vehicle Services License,7
+33.0,Outdoor Patio,1
+33.0,Package Goods,6
+33.0,Pawnbroker,2
+33.0,Peddler License,10
+33.0,"Peddler, food (fruits and vegtables only)",40
+33.0,"Peddler, non-food",11
+33.0,"Peddler, non-food, special",4
+33.0,"Peddler,food - (fruits and vegetables only) - special",2
+33.0,Pet Shop,3
+33.0,Private Booting Registration,10
+33.0,Public Place of Amusement,8
+33.0,Public Place of Amusement (PAV),2
+33.0,Regulated Business License,36
+33.0,Residential Real Estate Developer,3
+33.0,Retail Computing Center,16
+33.0,Retail Food Establishment,270
+33.0,Secondhand Dealer,7
+33.0,Secondhand Dealer (No Valuable Objects),3
+33.0,Shared Kitchen User (Long Term),2
+33.0,Street Performer,14
+33.0,Tavern,7
+33.0,"Tire Facilty Class I (100 - 1,000 Tires)",4
+33.0,Tobacco,75
+33.0,Tobacco Dealer Wholesale,1
+33.0,Valet Parking Operator,1
+33.0,Veterinary Hospital,3
+33.0,Weapons Dealer,1
+33.0,Wholesale Food Establishment,3
+34.0,Accessory Garage,23
+34.0,Animal Care Facility,1
+34.0,Animal Care License,2
+34.0,Auctioneer,2
+34.0,Board-Up Work,2
+34.0,Body Piercing,1
+34.0,Broker,54
+34.0,Caterer's Liquor License,9
+34.0,Children's Activities Facilities,4
+34.0,Children's Services Facility License,7
+34.0,Commercial Garage,72
+34.0,Commercial Passenger Vessel,1
+34.0,Consumption on Premises - Incidental Activity,132
+34.0,Day Care Center 2 - 6 Years,4
+34.0,Day Care Center Under 2 Years,3
+34.0,Day Care Center Under 2 and 2 - 6 Years,9
+34.0,Electronic Equipment Repair,31
+34.0,Emerging Business,3
+34.0,Expediter - Class A,10
+34.0,Expediter - Class B,2
+34.0,Expediter - Class B Employee,42
+34.0,Explosives,1
+34.0,Filling Station,3
+34.0,Food - Shared Kitchen,1
+34.0,Food - Shared Kitchen - Supplemental,1
+34.0,Grooming Facility,2
+34.0,Hazardous Materials,21
+34.0,Home Occupation,100
+34.0,Home Repair,10
+34.0,Hotel,10
+34.0,Kennels and Catteries,2
+34.0,Laboratories,1
+34.0,Late Hour,14
+34.0,Limited Business License,2021
+34.0,Manufacturing Establishments,11
+34.0,Massage Establishment,26
+34.0,Massage Therapist,7
+34.0,Mobile Food Dispenser,9
+34.0,Mobile Food License,1
+34.0,Motor Vehicle Repair : Engine Only (Class II),8
+34.0,Motor Vehicle Repair: Engine/Body(Class III),3
+34.0,Motor Vehicle Services License,2
+34.0,Music and Dance,1
+34.0,Not-For-Profit Club,13
+34.0,Outdoor Patio,21
+34.0,Package Goods,30
+34.0,Pawnbroker,1
+34.0,"Peddler, non-food",1
+34.0,"Peddler, non-food, special",2
+34.0,"Peddler,food - (fruits and vegetables only) - special",1
+34.0,Public Place of Amusement,11
+34.0,Public Place of Amusement (PAV),1
+34.0,Raffles,39
+34.0,Regulated Business License,154
+34.0,Residential Real Estate Developer,56
+34.0,Retail Computing Center,9
+34.0,Retail Food Establishment,490
+34.0,Secondhand Dealer,15
+34.0,Secondhand Dealer (No Valuable Objects),6
+34.0,Shared Kitchen User (Long Term),7
+34.0,Single Room Occupancy Class I,1
+34.0,Street Performer,7
+34.0,Tavern,14
+34.0,"Tire Facility Class III (5,001 - More Tires)",2
+34.0,"Tire Facilty Class I (100 - 1,000 Tires)",2
+34.0,Tobacco,122
+34.0,Tobacco Sampler,1
+34.0,"Tobacco Vending, Individual",1
+34.0,Transportation Network Provider,1
+34.0,Valet Parking Operator,18
+34.0,Veterinary Hospital,1
+34.0,Weapons Dealer,1
+35.0,Affiliation,2
+35.0,Animal Care Facility,4
+35.0,Animal Care License,1
+35.0,Automatic Amusement Device Operator,3
+35.0,Bed-And-Breakfast Establishment,1
+35.0,Body Piercing,1
+35.0,Broker,22
+35.0,Children's Activities Facilities,2
+35.0,Children's Services Facility License,4
+35.0,Commercial Garage,1
+35.0,Consumption on Premises - Incidental Activity,28
+35.0,Day Care Center 2 - 6 Years,9
+35.0,Day Care Center Under 2 Years,1
+35.0,Day Care Center Under 2 and 2 - 6 Years,5
+35.0,Day Labor Agency,4
+35.0,Electronic Equipment Repair,14
+35.0,Expediter - Class A,1
+35.0,Expediter - Class B,2
+35.0,Filling Station,7
+35.0,Grooming Facility,1
+35.0,Hazardous Materials,35
+35.0,Home Occupation,81
+35.0,Home Repair,80
+35.0,Hotel,1
+35.0,Junk Peddler,9
+35.0,Kennels and Catteries,2
+35.0,Laboratories,2
+35.0,"Laundry, Late Hour",4
+35.0,Limited Business License,614
+35.0,Long-Term Care Facility,4
+35.0,Manufacturing Establishments,9
+35.0,Massage Establishment,6
+35.0,Massage Therapist,34
+35.0,Mobile Frozen Desserts Dispenser - Non-Motorized,10
+35.0,Motor Vehicle Repair : Engine Only (Class II),48
+35.0,Motor Vehicle Repair: Engine/Body(Class III),13
+35.0,Motor Vehicle Repair; Specialty(Class I),10
+35.0,Motor Vehicle Services License,8
+35.0,Music and Dance,2
+35.0,Outdoor Patio,6
+35.0,Package Goods,15
+35.0,Pawnbroker,2
+35.0,Peddler License,2
+35.0,"Peddler, food (fruits and vegtables only)",20
+35.0,"Peddler, non-food",16
+35.0,"Peddler, non-food, special",1
+35.0,"Peddler,food - (fruits and vegetables only) - special",3
+35.0,Pet Shop,3
+35.0,Public Place of Amusement,4
+35.0,Public Place of Amusement (PAV),2
+35.0,Raffles,1
+35.0,Regulated Business License,38
+35.0,Residential Real Estate Developer,5
+35.0,Retail Computing Center,4
+35.0,Retail Food Establishment,182
+35.0,Secondhand Dealer,8
+35.0,Secondhand Dealer (No Valuable Objects),2
+35.0,Shared Kitchen User (Long Term),3
+35.0,Single Room Occupancy Class I,2
+35.0,Single Room Occupancy Class II,1
+35.0,Special Event Liquor,1
+35.0,Street Performer,15
+35.0,Tavern,9
+35.0,Taxicab Two-Way Dispatch Service License,2
+35.0,"Tire Facilty Class I (100 - 1,000 Tires)",5
+35.0,Tobacco,79
+35.0,Tobacco Dealer Wholesale,1
+35.0,Tobacco Sampler,1
+35.0,Weapons Dealer,1
+35.0,Wholesale Food Establishment,8
+36.0,Animal Care Facility,2
+36.0,Animal Care License,3
+36.0,Animal Exhibition,1
+36.0,Assisted Living/Shared Housing Establishment,1
+36.0,Automatic Amusement Device Operator,3
+36.0,Body Piercing,5
+36.0,Broker,12
+36.0,Caterer's Liquor License,1
+36.0,Children's Activities Facilities,2
+36.0,Consumption on Premises - Incidental Activity,12
+36.0,Day Care Center 2 - 6 Years,5
+36.0,Day Care Center Under 2 Years,1
+36.0,Day Care Center Under 2 and 2 - 6 Years,4
+36.0,Electronic Equipment Repair,10
+36.0,Expediter - Class B,4
+36.0,Expediter - Class B Employee,1
+36.0,Filling Station,8
+36.0,Grooming Facility,3
+36.0,Hazardous Materials,27
+36.0,Home Occupation,78
+36.0,Home Repair,72
+36.0,Junk Peddler,13
+36.0,Kennels and Catteries,6
+36.0,Late Hour,1
+36.0,"Laundry, Late Hour",1
+36.0,Limited Business License,510
+36.0,Manufacturing Establishments,14
+36.0,Massage Establishment,10
+36.0,Massage Therapist,24
+36.0,Mobile Food Dispenser,43
+36.0,Mobile Food License,5
+36.0,Mobile Frozen Desserts Dispenser - Non-Motorized,43
+36.0,Motor Vehicle Repair : Engine Only (Class II),57
+36.0,Motor Vehicle Repair: Engine/Body(Class III),28
+36.0,Motor Vehicle Repair; Specialty(Class I),9
+36.0,Motor Vehicle Services License,8
+36.0,Not-For-Profit Club,1
+36.0,Outdoor Patio,4
+36.0,Package Goods,12
+36.0,Pawnbroker,1
+36.0,Peddler License,2
+36.0,"Peddler, food (fruits and vegtables only)",18
+36.0,"Peddler, non-food",21
+36.0,"Peddler, non-food, special",1
+36.0,"Peddler,food - (fruits and vegetables only) - special",1
+36.0,Pet Shop,4
+36.0,Pharmaceutical Representative,2
+36.0,Public Place of Amusement,2
+36.0,Raffles,1
+36.0,Regulated Business License,42
+36.0,Residential Real Estate Developer,21
+36.0,Retail Computing Center,4
+36.0,Retail Food Establishment,144
+36.0,Secondhand Dealer,4
+36.0,Secondhand Dealer (No Valuable Objects),3
+36.0,Shared Kitchen User (Long Term),2
+36.0,Special Event Food,1
+36.0,Street Performer,12
+36.0,Tavern,7
+36.0,"Tire Facility Class II (1,001 - 5,000 Tires)",3
+36.0,"Tire Facilty Class I (100 - 1,000 Tires)",16
+36.0,Tobacco,50
+36.0,Veterinary Hospital,6
+36.0,Wholesale Food Establishment,3
+37.0,Animal Care Facility,2
+37.0,Animal Care License,1
+37.0,Automatic Amusement Device Operator,1
+37.0,Body Piercing,1
+37.0,Broker,3
+37.0,Caterer's Liquor License,1
+37.0,Children's Services Facility License,3
+37.0,Consumption on Premises - Incidental Activity,2
+37.0,Day Care Center 2 - 6 Years,11
+37.0,Day Care Center Under 2 Years,4
+37.0,Day Care Center Under 2 and 2 - 6 Years,4
+37.0,Electronic Equipment Repair,4
+37.0,Explosives,1
+37.0,Filling Station,10
+37.0,Hazardous Materials,54
+37.0,Home Occupation,41
+37.0,Home Repair,42
+37.0,Junk Peddler,3
+37.0,Kennels and Catteries,1
+37.0,"Laundry, Late Hour",1
+37.0,Limited Business License,489
+37.0,Long-Term Care Facility,1
+37.0,Manufacturing Establishments,10
+37.0,Massage Therapist,2
+37.0,Motor Vehicle Repair : Engine Only (Class II),31
+37.0,Motor Vehicle Repair: Engine/Body(Class III),30
+37.0,Motor Vehicle Repair; Specialty(Class I),12
+37.0,Motor Vehicle Services License,10
+37.0,Music and Dance,1
+37.0,Night Care Privilege,1
+37.0,Outdoor Patio,1
+37.0,Package Goods,6
+37.0,Peddler License,6
+37.0,"Peddler, food (fruits and vegtables only)",12
+37.0,"Peddler, non-food",22
+37.0,"Peddler, non-food, special",4
+37.0,"Peddler,food - (fruits and vegetables only) - special",3
+37.0,Pet Shop,2
+37.0,Public Place of Amusement,1
+37.0,Public Place of Amusement-TCC,1
+37.0,Raffles,1
+37.0,Regulated Business License,13
+37.0,Residential Real Estate Developer,2
+37.0,Retail Food Establishment,178
+37.0,"Scavenger, Private",2
+37.0,Secondhand Dealer,4
+37.0,Single Room Occupancy Class I,1
+37.0,Single Room Occupancy Class II,1
+37.0,Street Performer,6
+37.0,Tavern,3
+37.0,"Tire Facility Class II (1,001 - 5,000 Tires)",4
+37.0,"Tire Facilty Class I (100 - 1,000 Tires)",17
+37.0,Tobacco,83
+37.0,Veterinary Hospital,1
+37.0,Wholesale Food Establishment,3
+38.0,Animal Care License,2
+38.0,Automatic Amusement Device Operator,3
+38.0,Board-Up Work,1
+38.0,Body Piercing,1
+38.0,Broker,6
+38.0,Children's Activities Facilities,4
+38.0,Consumption on Premises - Incidental Activity,37
+38.0,Day Care Center 2 - 6 Years,12
+38.0,Day Care Center Under 2 Years,2
+38.0,Electronic Equipment Repair,6
+38.0,Expediter - Class B,1
+38.0,Filling Station,5
+38.0,Grooming Facility,7
+38.0,Hazardous Materials,8
+38.0,Home Occupation,79
+38.0,Home Repair,98
+38.0,Junk Peddler,2
+38.0,Kennels and Catteries,5
+38.0,Laboratories,1
+38.0,Limited Business License,324
+38.0,Long-Term Care Facility,1
+38.0,Manufacturing Establishments,3
+38.0,Massage Establishment,7
+38.0,Massage Therapist,21
+38.0,Mobile Food Dispenser,1
+38.0,Motor Vehicle Repair : Engine Only (Class II),38
+38.0,Motor Vehicle Repair: Engine/Body(Class III),7
+38.0,Motor Vehicle Repair; Specialty(Class I),3
+38.0,Motor Vehicle Services License,11
+38.0,Outdoor Patio,1
+38.0,Package Goods,7
+38.0,Peddler License,4
+38.0,"Peddler, food (fruits and vegtables only)",3
+38.0,"Peddler, non-food",2
+38.0,"Peddler, non-food, special",3
+38.0,Pet Shop,2
+38.0,Pop-Up Retail User,1
+38.0,Public Place of Amusement,2
+38.0,Raffles,1
+38.0,Regulated Business License,23
+38.0,Residential Real Estate Developer,1
+38.0,Retail Computing Center,2
+38.0,Retail Food Establishment,124
+38.0,Secondhand Dealer,2
+38.0,Secondhand Dealer (No Valuable Objects),5
+38.0,Shared Kitchen User (Long Term),3
+38.0,Street Performer,10
+38.0,Tavern,4
+38.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+38.0,"Tire Facilty Class I (100 - 1,000 Tires)",5
+38.0,Tobacco,29
+38.0,Wholesale Food Establishment,2
+39.0,Affiliation,1
+39.0,Automatic Amusement Device Operator,1
+39.0,Body Piercing,1
+39.0,Broker,25
+39.0,Caterer's Liquor License,1
+39.0,Children's Activities Facilities,8
+39.0,Children's Services Facility License,5
+39.0,Consumption on Premises - Incidental Activity,18
+39.0,Day Care Center 2 - 6 Years,11
+39.0,Day Care Center Under 2 and 2 - 6 Years,3
+39.0,Electronic Equipment Repair,19
+39.0,Expediter - Class A,3
+39.0,Expediter - Class B,4
+39.0,Expediter - Class B Employee,1
+39.0,Filling Station,8
+39.0,Grooming Facility,1
+39.0,Hazardous Materials,37
+39.0,Home Occupation,105
+39.0,Home Repair,106
+39.0,Junk Peddler,3
+39.0,Laboratories,1
+39.0,"Laundry, Late Hour",2
+39.0,License Broker,1
+39.0,Limited Business License,465
+39.0,Long-Term Care Facility,6
+39.0,Manufacturing Establishments,7
+39.0,Massage Establishment,6
+39.0,Massage Therapist,17
+39.0,Mobile Food License,4
+39.0,Mobile Frozen Desserts Dispenser - Non-Motorized,8
+39.0,Motor Vehicle Repair : Engine Only (Class II),60
+39.0,Motor Vehicle Repair: Engine/Body(Class III),24
+39.0,Motor Vehicle Repair; Specialty(Class I),13
+39.0,Motor Vehicle Services License,8
+39.0,Package Goods,12
+39.0,Peddler License,1
+39.0,"Peddler, food (fruits and vegtables only)",3
+39.0,"Peddler, non-food",19
+39.0,"Peddler, non-food, special",2
+39.0,"Peddler,food - (fruits and vegetables only) - special",1
+39.0,Private Booting Registration,1
+39.0,Raffles,2
+39.0,Regulated Business License,43
+39.0,Residential Real Estate Developer,7
+39.0,Retail Computing Center,6
+39.0,Retail Food Establishment,159
+39.0,Secondhand Dealer,7
+39.0,Secondhand Dealer (No Valuable Objects),3
+39.0,Shared Kitchen User (Long Term),1
+39.0,Street Performer,9
+39.0,Tavern,5
+39.0,Taxicab Two-Way Dispatch Service License,1
+39.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+39.0,"Tire Facilty Class I (100 - 1,000 Tires)",7
+39.0,Tobacco,39
+39.0,Tobacco Dealer Wholesale,5
+39.0,Valet Parking Operator,1
+39.0,Veterinary Hospital,5
+39.0,Wholesale Food Establishment,3
+40.0,Animal Care Facility,7
+40.0,Animal Care License,3
+40.0,Automatic Amusement Device Operator,4
+40.0,Bed-And-Breakfast Establishment,1
+40.0,Broker,43
+40.0,Caterer's Liquor License,1
+40.0,Children's Activities Facilities,4
+40.0,Children's Services Facility License,2
+40.0,Commercial Passenger Vessel,1
+40.0,Consumption on Premises - Incidental Activity,37
+40.0,Day Care Center 2 - 6 Years,11
+40.0,Day Care Center Under 2 Years,1
+40.0,Day Care Center Under 2 and 2 - 6 Years,7
+40.0,Electronic Equipment Repair,11
+40.0,Expediter - Class B,3
+40.0,Filling Station,4
+40.0,Food - Shared Kitchen - Supplemental,1
+40.0,Grooming Facility,2
+40.0,Hazardous Materials,12
+40.0,Home Occupation,123
+40.0,Home Repair,43
+40.0,Hospital,1
+40.0,Hotel,7
+40.0,Humane Society,2
+40.0,Kennels and Catteries,6
+40.0,Late Hour,11
+40.0,"Laundry, Late Hour",4
+40.0,License Manager,1
+40.0,Limited Business License,445
+40.0,Long-Term Care Facility,8
+40.0,Manufacturing Establishments,3
+40.0,Massage Establishment,5
+40.0,Massage Therapist,41
+40.0,Mobile Food Dispenser,16
+40.0,Mobile Food License,17
+40.0,Mobile Frozen Desserts Dispenser - Non-Motorized,10
+40.0,Motor Vehicle Repair : Engine Only (Class II),48
+40.0,Motor Vehicle Repair: Engine/Body(Class III),16
+40.0,Motor Vehicle Repair; Specialty(Class I),6
+40.0,Motor Vehicle Services License,11
+40.0,Music and Dance,1
+40.0,Not-For-Profit Club,16
+40.0,Outdoor Patio,16
+40.0,Package Goods,23
+40.0,Peddler License,6
+40.0,"Peddler, food (fruits and vegtables only)",5
+40.0,"Peddler, non-food",14
+40.0,"Peddler, non-food, special",3
+40.0,Pet Shop,2
+40.0,Pharmaceutical Representative,2
+40.0,Public Place of Amusement,17
+40.0,Public Place of Amusement (PAV),2
+40.0,Public Place of Amusement-TCC,1
+40.0,Raffles,11
+40.0,Regulated Business License,47
+40.0,Residential Real Estate Developer,2
+40.0,Retail Computing Center,3
+40.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,3
+40.0,Retail Food Establishment,191
+40.0,Secondhand Dealer,1
+40.0,Secondhand Dealer (No Valuable Objects),1
+40.0,Shared Kitchen User (Long Term),1
+40.0,Special Event Liquor,1
+40.0,Street Performer,16
+40.0,Tavern,41
+40.0,"Tire Facilty Class I (100 - 1,000 Tires)",8
+40.0,Tobacco,40
+40.0,Tobacco Dealer Wholesale,2
+40.0,Vacation Rental,1
+40.0,Veterinary Hospital,2
+40.0,Wholesale Food Establishment,1
+41.0,Accessory Garage,3
+41.0,Airport Pushcart Liquor O'Hare - Class A,2
+41.0,Animal Care Facility,1
+41.0,Animal Care License,3
+41.0,Assisted Living/Shared Housing Establishment,1
+41.0,Broker,13
+41.0,Caterer's Liquor License,1
+41.0,Children's Activities Facilities,1
+41.0,Children's Services Facility License,7
+41.0,Commercial Garage,8
+41.0,Consumption on Premises - Incidental Activity,83
+41.0,Day Care Center 2 - 6 Years,8
+41.0,Day Care Center Under 2 Years,2
+41.0,Day Care Center Under 2 and 2 - 6 Years,2
+41.0,Day Labor Agency,2
+41.0,Electronic Equipment Repair,7
+41.0,Expediter - Class A,2
+41.0,Expediter - Class B,4
+41.0,Expediter - Class B Employee,1
+41.0,Filling Station,3
+41.0,Grooming Facility,3
+41.0,Hazardous Materials,23
+41.0,Home Occupation,66
+41.0,Home Repair,55
+41.0,Hospital,1
+41.0,Hotel,8
+41.0,Kennels and Catteries,3
+41.0,Late Hour,1
+41.0,Limited Business License,440
+41.0,Liquor Airport Pushcart License,1
+41.0,Long-Term Care Facility,4
+41.0,Manufacturing Establishments,4
+41.0,Massage Establishment,13
+41.0,Massage Therapist,23
+41.0,Motor Vehicle Repair : Engine Only (Class II),16
+41.0,Motor Vehicle Repair: Engine/Body(Class III),7
+41.0,Motor Vehicle Repair; Specialty(Class I),3
+41.0,Music and Dance,2
+41.0,Outdoor Patio,17
+41.0,Package Goods,5
+41.0,"Peddler, food (fruits and vegtables only)",2
+41.0,"Peddler, non-food",7
+41.0,Pet Shop,2
+41.0,Public Place of Amusement,6
+41.0,Public Place of Amusement (PAV),1
+41.0,Regulated Business License,29
+41.0,Residential Real Estate Developer,8
+41.0,Retail Computing Center,3
+41.0,Retail Food Establishment,182
+41.0,Secondhand Dealer (No Valuable Objects),1
+41.0,Secondhand Dealer - Children's Products,1
+41.0,Shared Kitchen User (Long Term),2
+41.0,Special Event Food,1
+41.0,Street Performer,4
+41.0,Tavern,13
+41.0,Tobacco,39
+41.0,"Tobacco Vending, Individual",5
+41.0,Valet Parking Operator,8
+41.0,Veterinary Hospital,2
+42.0,Accessory Garage,62
+42.0,Animal Care Facility,1
+42.0,Animal Care License,2
+42.0,Animal Exhibition,2
+42.0,Assisted Living/Shared Housing Establishment,2
+42.0,Auctioneer,8
+42.0,Automatic Amusement Device Operator,1
+42.0,Board-Up Work,1
+42.0,Body Piercing,1
+42.0,Broker,51
+42.0,Caterer's Liquor License,41
+42.0,Children's Activities Facilities,1
+42.0,Children's Services Facility License,4
+42.0,Commercial Garage,115
+42.0,Commercial Passenger Vessel,5
+42.0,Consumption on Premises - Incidental Activity,560
+42.0,Day Care Center 2 - 6 Years,6
+42.0,Day Care Center Under 2 Years,2
+42.0,Day Care Center Under 2 and 2 - 6 Years,5
+42.0,Electronic Equipment Repair,17
+42.0,Emerging Business,3
+42.0,Expediter - Class A,9
+42.0,Expediter - Class B,2
+42.0,Expediter - Class B Employee,16
+42.0,Explosives,2
+42.0,"Explosives, Certificate of Fitness",3
+42.0,Food - Shared Kitchen - Supplemental,5
+42.0,Hazardous Materials,21
+42.0,Home Occupation,151
+42.0,Home Repair,15
+42.0,Hotel,76
+42.0,Humane Society,1
+42.0,Kennels and Catteries,1
+42.0,Late Hour,63
+42.0,License Broker,1
+42.0,Limited Business License,2967
+42.0,Long-Term Care Facility,2
+42.0,Manufacturing Establishments,3
+42.0,Massage Establishment,64
+42.0,Massage Therapist,20
+42.0,Mobile Food Dispenser,3
+42.0,Mobile Food License,3
+42.0,Motor Vehicle Repair : Engine Only (Class II),1
+42.0,Motor Vehicle Repair: Engine/Body(Class III),1
+42.0,Motor Vehicle Repair; Specialty(Class I),1
+42.0,Music and Dance,41
+42.0,Navy Pier - Mobile,6
+42.0,Navy Pier - Outdoor Fixed,11
+42.0,Navy Pier Kiosk License,1
+42.0,Navy Pier Vendor (Food),1
+42.0,Navy Pier Vendor (Non-Food),50
+42.0,Not-For-Profit Club,3
+42.0,Outdoor Patio,125
+42.0,Package Goods,61
+42.0,Pawnbroker,1
+42.0,Peddler License,1
+42.0,"Peddler, food (fruits and vegtables only)",2
+42.0,"Peddler, non-food",5
+42.0,"Peddler, non-food, special",3
+42.0,Pet Shop,1
+42.0,Pharmaceutical Representative,1
+42.0,Pop-Up Establishment Host - Tier II,2
+42.0,Pop-Up Retail User,1
+42.0,Produce Merchant,1
+42.0,Public Place of Amusement,116
+42.0,Public Place of Amusement (PAV),4
+42.0,Raffles,31
+42.0,Regulated Business License,182
+42.0,Residential Real Estate Developer,103
+42.0,Retail Computing Center,9
+42.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,8
+42.0,Retail Food Establishment,931
+42.0,Riverwalk Venue Liquor License,4
+42.0,Secondhand Dealer,9
+42.0,Secondhand Dealer (No Valuable Objects),2
+42.0,Shared Kitchen User (Long Term),3
+42.0,Single Room Occupancy Class I,2
+42.0,Special Event Food,3
+42.0,Street Performer,17
+42.0,Tavern,49
+42.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+42.0,Tobacco,194
+42.0,"Tobacco Vending, Individual",7
+42.0,Transportation Network Provider,2
+42.0,Vacation Rental,3
+42.0,Valet Parking Operator,168
+42.0,Veterinary Hospital,1
+43.0,Accessory Garage,13
+43.0,Animal Care Facility,2
+43.0,Animal Care License,5
+43.0,Auctioneer,2
+43.0,Bed-And-Breakfast Establishment,3
+43.0,Broker,9
+43.0,Caterer's Liquor License,2
+43.0,Children's Activities Facilities,5
+43.0,Children's Services Facility License,7
+43.0,Commercial Garage,18
+43.0,Consumption on Premises - Incidental Activity,83
+43.0,Day Care Center 2 - 6 Years,7
+43.0,Day Care Center Under 2 Years,1
+43.0,Day Care Center Under 2 and 2 - 6 Years,3
+43.0,Electronic Equipment Repair,7
+43.0,Expediter - Class A,1
+43.0,Expediter - Class B,1
+43.0,Filling Station,1
+43.0,Grooming Facility,2
+43.0,Hazardous Materials,2
+43.0,Home Occupation,128
+43.0,Home Repair,10
+43.0,Hospital,1
+43.0,Hotel,5
+43.0,Kennels and Catteries,2
+43.0,Laboratories,1
+43.0,Late Hour,1
+43.0,Limited Business License,531
+43.0,Long-Term Care Facility,4
+43.0,Manufacturing Establishments,4
+43.0,Massage Establishment,18
+43.0,Massage Therapist,25
+43.0,Mobile Food Dispenser,4
+43.0,Mobile Food License,2
+43.0,Mobile Frozen Desserts Dispenser - Non-Motorized,1
+43.0,Motor Vehicle Repair : Engine Only (Class II),7
+43.0,Motor Vehicle Repair: Engine/Body(Class III),1
+43.0,Motor Vehicle Repair; Specialty(Class I),1
+43.0,Music and Dance,5
+43.0,Outdoor Patio,12
+43.0,Package Goods,21
+43.0,Peddler License,1
+43.0,"Peddler, food (fruits and vegtables only)",2
+43.0,"Peddler, non-food",5
+43.0,"Peddler, non-food, special",2
+43.0,Pet Shop,1
+43.0,Pharmaceutical Representative,5
+43.0,Produce Merchant,1
+43.0,Public Place of Amusement,20
+43.0,Public Place of Amusement (PAV),2
+43.0,Raffles,7
+43.0,Regulated Business License,68
+43.0,Residential Real Estate Developer,28
+43.0,Retail Computing Center,1
+43.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,1
+43.0,Retail Food Establishment,253
+43.0,Secondhand Dealer,4
+43.0,Secondhand Dealer (No Valuable Objects),1
+43.0,Secondhand Dealer - Children's Products,1
+43.0,Shared Housing Unit Operator,1
+43.0,Shared Kitchen User (Long Term),4
+43.0,Single Room Occupancy Class I,2
+43.0,Special Event Food,1
+43.0,Special Event Liquor,1
+43.0,Street Performer,21
+43.0,Tavern,3
+43.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+43.0,"Tire Facilty Class I (100 - 1,000 Tires)",2
+43.0,Tobacco,37
+43.0,Vacation Rental,16
+43.0,Valet Parking Operator,12
+43.0,Veterinary Hospital,4
+44.0,Accessory Garage,18
+44.0,Animal Care Facility,4
+44.0,Animal Care License,3
+44.0,Automatic Amusement Device Operator,1
+44.0,Bed-And-Breakfast Establishment,1
+44.0,Body Piercing,4
+44.0,Broker,31
+44.0,Caterer's Liquor License,12
+44.0,Children's Activities Facilities,3
+44.0,Children's Services Facility License,5
+44.0,Commercial Garage,33
+44.0,Commercial Passenger Vessel,1
+44.0,Consumption on Premises - Incidental Activity,150
+44.0,Day Care Center 2 - 6 Years,6
+44.0,Day Care Center Under 2 Years,3
+44.0,Electronic Equipment Repair,13
+44.0,Filling Station,2
+44.0,Food - Shared Kitchen - Supplemental,1
+44.0,Grooming Facility,5
+44.0,Hazardous Materials,9
+44.0,Home Occupation,142
+44.0,Home Repair,19
+44.0,Hospital,3
+44.0,Hotel,6
+44.0,Kennels and Catteries,6
+44.0,Late Hour,10
+44.0,"Laundry, Late Hour",1
+44.0,Limited Business License,607
+44.0,Long-Term Care Facility,1
+44.0,Manufacturing Establishments,1
+44.0,Massage Establishment,14
+44.0,Massage Therapist,64
+44.0,Mobile Food Dispenser,1
+44.0,Mobile Food License,1
+44.0,Motor Vehicle Repair : Engine Only (Class II),9
+44.0,Motor Vehicle Repair: Engine/Body(Class III),3
+44.0,Motor Vehicle Services License,1
+44.0,Music and Dance,6
+44.0,Outdoor Patio,46
+44.0,Package Goods,32
+44.0,Peddler License,1
+44.0,"Peddler, non-food",10
+44.0,"Peddler, non-food, special",1
+44.0,Pet Shop,1
+44.0,Pharmaceutical Representative,1
+44.0,Pop-Up Retail User,1
+44.0,Public Place of Amusement,47
+44.0,Public Place of Amusement (PAV),8
+44.0,Raffles,3
+44.0,Regulated Business License,83
+44.0,Residential Real Estate Developer,12
+44.0,Retail Computing Center,2
+44.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,4
+44.0,Retail Food Establishment,414
+44.0,Secondhand Dealer,7
+44.0,Secondhand Dealer (No Valuable Objects),3
+44.0,Shared Kitchen User (Long Term),4
+44.0,Single Room Occupancy Class II,1
+44.0,Street Performer,28
+44.0,Tavern,79
+44.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+44.0,Tobacco,73
+44.0,Vacation Rental,13
+44.0,Valet Parking Operator,4
+44.0,Veterinary Hospital,3
+44.0,Wrigley Field,18
+45.0,Animal Care Facility,2
+45.0,Animal Care License,2
+45.0,Auctioneer,3
+45.0,Automatic Amusement Device Operator,3
+45.0,Board-Up Work,2
+45.0,Body Piercing,4
+45.0,Broker,19
+45.0,Children's Activities Facilities,4
+45.0,Children's Services Facility License,5
+45.0,Commercial Passenger Vessel,1
+45.0,Consumption on Premises - Incidental Activity,39
+45.0,Day Care Center 2 - 6 Years,6
+45.0,Day Care Center Under 2 Years,1
+45.0,Day Care Center Under 2 and 2 - 6 Years,2
+45.0,Day Labor Agency,2
+45.0,Electronic Equipment Repair,20
+45.0,Expediter - Class B,1
+45.0,Filling Station,11
+45.0,Food - Shared Kitchen - Supplemental,1
+45.0,Grooming Facility,3
+45.0,Hazardous Materials,31
+45.0,Home Occupation,106
+45.0,Home Repair,112
+45.0,Humane Society,1
+45.0,Junk Peddler,1
+45.0,Kennels and Catteries,4
+45.0,Laboratories,2
+45.0,Late Hour,1
+45.0,"Laundry, Late Hour",2
+45.0,Limited Business License,605
+45.0,Manufacturing Establishments,10
+45.0,Massage Establishment,26
+45.0,Massage Therapist,44
+45.0,Mobile Food Dispenser,1
+45.0,Mobile Frozen Desserts Dispenser - Non-Motorized,5
+45.0,Motor Vehicle Repair : Engine Only (Class II),50
+45.0,Motor Vehicle Repair: Engine/Body(Class III),12
+45.0,Motor Vehicle Repair; Specialty(Class I),5
+45.0,Motor Vehicle Services License,7
+45.0,Music and Dance,1
+45.0,Outdoor Patio,5
+45.0,Package Goods,20
+45.0,Peddler License,3
+45.0,"Peddler, food (fruits and vegtables only)",5
+45.0,"Peddler, non-food",14
+45.0,"Peddler, non-food, special",2
+45.0,"Peddler,food - (fruits and vegetables only) - special",1
+45.0,Pet Shop,3
+45.0,Public Place of Amusement,12
+45.0,Public Place of Amusement (PAV),2
+45.0,Raffles,1
+45.0,Regulated Business License,45
+45.0,Residential Real Estate Developer,20
+45.0,Retail Computing Center,2
+45.0,Retail Food Establishment,170
+45.0,"Scavenger, Private",4
+45.0,Secondhand Dealer,3
+45.0,Secondhand Dealer (No Valuable Objects),2
+45.0,Secondhand Dealer - Children's Products,3
+45.0,Single Room Occupancy Class II,1
+45.0,Special Event Liquor,1
+45.0,Street Performer,7
+45.0,Tavern,18
+45.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+45.0,"Tire Facility Class III (5,001 - More Tires)",1
+45.0,"Tire Facilty Class I (100 - 1,000 Tires)",9
+45.0,Tobacco,57
+45.0,Tobacco Dealer Wholesale,2
+45.0,Veterinary Hospital,4
+45.0,Wholesale Food Establishment,3
+46.0,Accessory Garage,14
+46.0,Animal Care Facility,3
+46.0,Animal Care License,2
+46.0,Automatic Amusement Device Operator,2
+46.0,Bed-And-Breakfast Establishment,1
+46.0,Body Piercing,3
+46.0,Broker,7
+46.0,Caterer's Liquor License,1
+46.0,Children's Activities Facilities,3
+46.0,Children's Services Facility License,4
+46.0,Commercial Garage,17
+46.0,Consumption on Premises - Incidental Activity,19
+46.0,Day Care Center 2 - 6 Years,10
+46.0,Day Care Center Under 2 Years,2
+46.0,Day Care Center Under 2 and 2 - 6 Years,3
+46.0,Electronic Equipment Repair,12
+46.0,Expediter - Class A,2
+46.0,Filling Station,2
+46.0,Food - Shared Kitchen - Supplemental,1
+46.0,Grooming Facility,3
+46.0,Hazardous Materials,5
+46.0,Home Occupation,125
+46.0,Home Repair,17
+46.0,Hospital,4
+46.0,Hotel,4
+46.0,Junk Peddler,1
+46.0,Kennels and Catteries,4
+46.0,Late Hour,23
+46.0,"Laundry, Late Hour",4
+46.0,Limited Business License,420
+46.0,Long-Term Care Facility,7
+46.0,Manufacturing Establishments,2
+46.0,Massage Establishment,9
+46.0,Massage Therapist,52
+46.0,Mobile Food Dispenser,3
+46.0,Mobile Food License,1
+46.0,Motor Vehicle Repair : Engine Only (Class II),8
+46.0,Motor Vehicle Repair: Engine/Body(Class III),1
+46.0,Motor Vehicle Repair; Specialty(Class I),2
+46.0,Music and Dance,3
+46.0,Night Care Privilege,1
+46.0,Outdoor Patio,4
+46.0,Package Goods,16
+46.0,Peddler License,4
+46.0,"Peddler, food (fruits and vegtables only)",3
+46.0,"Peddler, non-food",17
+46.0,"Peddler, non-food, special",2
+46.0,"Peddler,food - (fruits and vegetables only) - special",1
+46.0,Pet Shop,2
+46.0,Pharmaceutical Representative,1
+46.0,Produce Merchant,1
+46.0,Public Place of Amusement,6
+46.0,Public Place of Amusement (PAV),3
+46.0,Public Place of Amusement-TCC,5
+46.0,Raffles,2
+46.0,Regulated Business License,62
+46.0,Residential Real Estate Developer,6
+46.0,Retail Computing Center,7
+46.0,Retail Food Establishment,185
+46.0,Secondhand Dealer,3
+46.0,Secondhand Dealer (No Valuable Objects),1
+46.0,Shared Kitchen User (Long Term),5
+46.0,Single Room Occupancy Class I,10
+46.0,Single Room Occupancy Class II,1
+46.0,Street Performer,12
+46.0,Tavern,18
+46.0,"Tire Facility Class II (1,001 - 5,000 Tires)",1
+46.0,"Tire Facilty Class I (100 - 1,000 Tires)",1
+46.0,Tobacco,59
+46.0,Valet Parking Operator,1
+46.0,Veterinary Hospital,1
+46.0,Wholesale Food Establishment,1
+47.0,Accessory Garage,2
+47.0,Animal Care Facility,7
+47.0,Animal Care License,12
+47.0,Auctioneer,2
+47.0,Bed-And-Breakfast Establishment,1
+47.0,Body Piercing,2
+47.0,Broker,16
+47.0,Caterer's Liquor License,1
+47.0,Children's Activities Facilities,6
+47.0,Children's Services Facility License,15
+47.0,Class A - Indoor Special Event,2
+47.0,Consumption on Premises - Incidental Activity,54
+47.0,Day Care Center 2 - 6 Years,8
+47.0,Day Care Center Under 2 Years,1
+47.0,Day Care Center Under 2 and 2 - 6 Years,4
+47.0,Electronic Equipment Repair,9
+47.0,Expediter - Class A,1
+47.0,Expediter - Class B Employee,2
+47.0,Filling Station,5
+47.0,Food - Shared Kitchen - Supplemental,2
+47.0,Grooming Facility,7
+47.0,Hazardous Materials,28
+47.0,Home Occupation,152
+47.0,Home Repair,55
+47.0,Hospital,3
+47.0,Humane Society,3
+47.0,Industrial Private Event Venue,2
+47.0,Kennels and Catteries,13
+47.0,Laboratories,2
+47.0,Late Hour,3
+47.0,License Manager,1
+47.0,Limited Business License,733
+47.0,Long-Term Care Facility,2
+47.0,Manufacturing Establishments,10
+47.0,Massage Establishment,23
+47.0,Massage Therapist,66
+47.0,Mobile Food Dispenser,4
+47.0,Mobile Frozen Desserts Dispenser - Non-Motorized,1
+47.0,Motor Vehicle Repair : Engine Only (Class II),37
+47.0,Motor Vehicle Repair: Engine/Body(Class III),16
+47.0,Motor Vehicle Repair; Specialty(Class I),4
+47.0,Motor Vehicle Services License,7
+47.0,Music and Dance,1
+47.0,Outdoor Patio,7
+47.0,Package Goods,32
+47.0,Peddler License,1
+47.0,"Peddler, food (fruits and vegtables only)",1
+47.0,"Peddler, non-food",10
+47.0,Pet Shop,4
+47.0,Pharmaceutical Representative,2
+47.0,Pop-Up Retail User,1
+47.0,Public Place of Amusement,6
+47.0,Public Place of Amusement (PAV),7
+47.0,Public Place of Amusement-TCC,3
+47.0,Raffles,5
+47.0,Regulated Business License,80
+47.0,Residential Real Estate Developer,24
+47.0,Retail Food Est.-Supplemental License for Dog-Friendly Areas,2
+47.0,Retail Food Establishment,264
+47.0,Secondhand Dealer,6
+47.0,Secondhand Dealer (No Valuable Objects),2
+47.0,Shared Housing Unit Operator,2
+47.0,Shared Kitchen User (Long Term),1
+47.0,Special Event Food,2
+47.0,Street Performer,28
+47.0,Tavern,21
+47.0,"Tire Facility Class II (1,001 - 5,000 Tires)",2
+47.0,"Tire Facilty Class I (100 - 1,000 Tires)",4
+47.0,Tobacco,56
+47.0,"Tobacco Vending, Individual",1
+47.0,Vacation Rental,14
+47.0,Valet Parking Operator,3
+47.0,Veterinary Hospital,6
+47.0,Wholesale Food Establishment,4
+48.0,Accessory Garage,9
+48.0,Animal Care Facility,2
+48.0,Animal Care License,5
+48.0,Auctioneer,1
+48.0,Automatic Amusement Device Operator,1
+48.0,Bed-And-Breakfast Establishment,1
+48.0,Body Piercing,1
+48.0,Broker,24
+48.0,Caterer's Liquor License,1
+48.0,Children's Activities Facilities,3
+48.0,Children's Services Facility License,4
+48.0,Commercial Garage,3
+48.0,Consumption on Premises - Incidental Activity,23
+48.0,Day Care Center 2 - 6 Years,7
+48.0,Day Care Center Under 2 Years,2
+48.0,Day Care Center Under 2 and 2 - 6 Years,3
+48.0,Electronic Equipment Repair,19
+48.0,Expediter - Class B,1
+48.0,Filling Station,2
+48.0,Food - Shared Kitchen - Supplemental,1
+48.0,Grooming Facility,2
+48.0,Hazardous Materials,10
+48.0,Home Occupation,128
+48.0,Home Repair,17
+48.0,Hospital,1
+48.0,Kennels and Catteries,3
+48.0,Laboratories,2
+48.0,Limited Business License,367
+48.0,Long-Term Care Facility,10
+48.0,Massage Establishment,3
+48.0,Massage Therapist,79
+48.0,Motor Vehicle Repair : Engine Only (Class II),14
+48.0,Motor Vehicle Repair: Engine/Body(Class III),19
+48.0,Motor Vehicle Repair; Specialty(Class I),5
+48.0,Motor Vehicle Services License,4
+48.0,Music and Dance,1
+48.0,Outdoor Patio,5
+48.0,Package Goods,16
+48.0,Peddler License,4
+48.0,"Peddler, food (fruits and vegtables only)",4
+48.0,"Peddler, non-food",6
+48.0,"Peddler, non-food, special",1
+48.0,"Peddler,food - (fruits and vegetables only) - special",1
+48.0,Public Place of Amusement,8
+48.0,Public Place of Amusement (PAV),6
+48.0,Public Place of Amusement-TCC,2
+48.0,Raffles,5
+48.0,Regulated Business License,45
+48.0,Residential Real Estate Developer,2
+48.0,Retail Computing Center,6
+48.0,Retail Food Establishment,188
+48.0,Secondhand Dealer,5
+48.0,Secondhand Dealer (No Valuable Objects),1
+48.0,Shared Housing Unit Operator,1
+48.0,Shared Kitchen User (Long Term),4
+48.0,Single Room Occupancy Class I,8
+48.0,Single Room Occupancy Class II,1
+48.0,Street Performer,26
+48.0,Tavern,7
+48.0,"Tire Facilty Class I (100 - 1,000 Tires)",2
+48.0,Tobacco,51
+48.0,Vacation Rental,2
+48.0,Veterinary Hospital,4
+48.0,Wholesale Food Establishment,2
+49.0,Accessory Garage,2
+49.0,Animal Care Facility,1
+49.0,Bed-And-Breakfast Establishment,1
+49.0,Body Piercing,2
+49.0,Broker,5
+49.0,Children's Activities Facilities,2
+49.0,Children's Services Facility License,3
+49.0,Commercial Garage,2
+49.0,Consumption on Premises - Incidental Activity,10
+49.0,Day Care Center 2 - 6 Years,8
+49.0,Day Care Center Under 2 Years,2
+49.0,Day Care Center Under 2 and 2 - 6 Years,4
+49.0,Electronic Equipment Repair,9
+49.0,Emerging Business,1
+49.0,Expediter - Class A,2
+49.0,Filling Station,2
+49.0,Grooming Facility,2
+49.0,Hazardous Materials,8
+49.0,Home Occupation,108
+49.0,Home Repair,13
+49.0,Hotel,1
+49.0,Kennels and Catteries,1
+49.0,Laboratories,1
+49.0,Limited Business License,346
+49.0,Long-Term Care Facility,12
+49.0,Manufacturing Establishments,1
+49.0,Massage Establishment,2
+49.0,Massage Therapist,24
+49.0,Mobile Food Dispenser,11
+49.0,Mobile Food License,7
+49.0,Mobile Frozen Desserts Dispenser - Non-Motorized,20
+49.0,Motor Vehicle Repair : Engine Only (Class II),15
+49.0,Motor Vehicle Repair: Engine/Body(Class III),16
+49.0,Motor Vehicle Repair; Specialty(Class I),2
+49.0,Motor Vehicle Services License,2
+49.0,Outdoor Patio,2
+49.0,Package Goods,20
+49.0,Pawnbroker,2
+49.0,Peddler License,3
+49.0,"Peddler, food (fruits and vegtables only)",13
+49.0,"Peddler, non-food",14
+49.0,"Peddler, non-food, special",2
+49.0,Private Booting Registration,3
+49.0,Public Place of Amusement,6
+49.0,Public Place of Amusement (PAV),3
+49.0,Raffles,2
+49.0,Regulated Business License,35
+49.0,Repossessor Class B Employee,3
+49.0,Residential Real Estate Developer,4
+49.0,Retail Computing Center,3
+49.0,Retail Food Establishment,170
+49.0,Secondhand Dealer,4
+49.0,Secondhand Dealer (No Valuable Objects),1
+49.0,Secondhand Dealer - Children's Products,1
+49.0,Shared Kitchen User (Long Term),3
+49.0,Single Room Occupancy Class II,1
+49.0,Street Performer,20
+49.0,Tavern,13
+49.0,"Tire Facilty Class I (100 - 1,000 Tires)",4
+49.0,Tobacco,91
+49.0,Tobacco Dealer Wholesale,1
+49.0,Vacation Rental,2
+49.0,Veterinary Hospital,1
+49.0,Wholesale Food Establishment,2
+50.0,Animal Care Facility,2
+50.0,Animal Care License,1
+50.0,Auctioneer,2
+50.0,Automatic Amusement Device Operator,1
+50.0,Broker,43
+50.0,Children's Activities Facilities,3
+50.0,Children's Services Facility License,5
+50.0,Consumption on Premises - Incidental Activity,8
+50.0,Day Care Center 2 - 6 Years,15
+50.0,Day Care Center Under 2 Years,1
+50.0,Day Care Center Under 2 and 2 - 6 Years,1
+50.0,Electronic Equipment Repair,23
+50.0,Expediter - Class A,1
+50.0,Expediter - Class B,3
+50.0,Filling Station,3
+50.0,Grooming Facility,3
+50.0,Hazardous Materials,11
+50.0,Home Occupation,61
+50.0,Home Repair,59
+50.0,Hotel,4
+50.0,Junk Peddler,1
+50.0,Kennels and Catteries,4
+50.0,Laboratories,1
+50.0,Late Hour,10
+50.0,"Laundry, Late Hour",1
+50.0,Limited Business License,548
+50.0,Long-Term Care Facility,5
+50.0,Manufacturing Establishments,1
+50.0,Massage Establishment,7
+50.0,Massage Therapist,20
+50.0,Mobile Food Dispenser,2
+50.0,Motor Vehicle Repair : Engine Only (Class II),25
+50.0,Motor Vehicle Repair: Engine/Body(Class III),8
+50.0,Motor Vehicle Repair; Specialty(Class I),4
+50.0,Motor Vehicle Services License,3
+50.0,Music and Dance,2
+50.0,Package Goods,7
+50.0,Peddler License,2
+50.0,"Peddler, food (fruits and vegtables only)",5
+50.0,"Peddler, non-food",12
+50.0,"Peddler, non-food, special",1
+50.0,Pet Shop,2
+50.0,Private Booting Operation,2
+50.0,Public Place of Amusement,2
+50.0,Regulated Business License,20
+50.0,Residential Real Estate Developer,6
+50.0,Retail Computing Center,9
+50.0,Retail Food Establishment,187
+50.0,Secondhand Dealer,1
+50.0,Secondhand Dealer (No Valuable Objects),1
+50.0,Shared Housing Unit Operator,2
+50.0,Shared Kitchen User (Long Term),3
+50.0,Street Performer,13
+50.0,Tavern,3
+50.0,"Tire Facilty Class I (100 - 1,000 Tires)",11
+50.0,Tobacco,56
+50.0,"Tobacco Vending, Individual",9
+50.0,Weapons Dealer,1
+50.0,Wholesale Food Establishment,2

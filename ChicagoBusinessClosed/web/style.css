@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #f2f2f5;
+  }
+  
+  #layout {
+    display: grid;
+    grid-template-columns: 3fr 1.3fr;
+    grid-template-rows: 1fr 1fr;
+    height: 100vh;
+    gap: 12px;
+    padding: 12px;
+    box-sizing: border-box;
+  }
+  
+  #embedding-view,
+  #attribute-view,
+  #spatial-view {
+    background: #fdfaf6;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    padding: 4px;
+  }
+
+  
+  /* Embedding scatterplot spans left column */
+  #embedding-view {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+  }
+  
+  /* Top-right bar chart */
+  #attribute-view {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+  }
+  
+  /* Bottom-right map */
+  #spatial-view {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+  }
+  
